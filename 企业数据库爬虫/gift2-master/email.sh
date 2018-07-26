@@ -1,0 +1,1 @@
+/1   *    *   *   *       python3 /Users/macbook/Desktop/tyc2.0/qiushibaike/email.sh >> /User/macbook/Desktop/log

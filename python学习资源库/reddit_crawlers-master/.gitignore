@@ -1,0 +1,9 @@
+*.pyc
+*.jpg
+*.png
+*.gif
+secret_keys.py
+.DS_Store
+node_modules
+.idea
+

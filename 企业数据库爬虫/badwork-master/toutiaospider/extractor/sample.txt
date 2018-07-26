@@ -1,0 +1,118 @@
+
+<!DOCTYPE html><html><head><meta charset=utf-8><meta http-equiv=x-dns-prefetch-control content=on><meta name=renderer content=webkit><link rel=dns-prefetch href=//s3.pstatp.com/ ><link rel=dns-prefetch href=//s3a.pstatp.com/ ><link rel=dns-prefetch href=//s3b.pstatp.com><link rel=dns-prefetch href=//p1.pstatp.com/ ><link rel=dns-prefetch href=//p3.pstatp.com/ ><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui"><meta name=360-site-verification content=b96e1758dfc9156a410a4fb9520c5956><meta name=360_ssp_verify content=2ae4ad39552c45425bddb738efda3dbb><meta name=google-site-verification content=3PYTTW0s7IAfkReV8wAECfjIdKY-bQeSkVTyJNZpBKE><meta name=shenma-site-verification content=34c05607e2a9430ad4249ed48faaf7cb_1432711730><meta name=baidu_union_verify content=b88dd3920f970845bad8ad9f90d687f7><meta name=domain_verify content=pmrgi33nmfuw4ir2ej2g65lunfqw6ltdn5wselbcm52wszbchirdqyztge3tenrsgq3dknjume2tayrvmqytemlfmiydimddgu4gcnzcfqrhi2lnmvjwc5tfei5dcnbwhazdcobuhe2dqobrpu><link rel="shortcut icon" href=//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/image/favicon_8e9c9c7.ico type=image/x-icon><!--[if lt IE 9]>
+  <p>您的浏览器版本过低，请<a href="http://browsehappy.com/">升级浏览器</a></p>
+<![endif]--><link rel=alternate media="only screen and (max-width: 640px)" href=//m.toutiao.com/a6532631549039362573/ ><title>苹果WWDC时间敲定 iOS12大升级且有新MacBook/iPad</title><meta name=keywords content=iPad,MacBook Air,WWDC,iPad Pro,iPhone><meta name=description content=”，但还是不能阻止我们对 iOS 12 有哪些新功能的好奇，下面列出几点升级功能：iOS 12 将会和 macOS 10.14，更好地实现跨平台应用程序的支持；新的医疗和健康功能将会推出；HomePod 将获得更新，可以禁用 Siri；加入家长控制功能，监督小孩青少年使用 iPh><script src="//s3.pstatp.com/toutiao/monitor/sdk/slardar.js?ver=20171221_1" crossorigin=anonymous></script><script>window.Slardar && window.Slardar.install({
+      sampleRate: 0.5,
+      bid: 'toutiao_pc',
+      pid: 'article_detail_new',
+      ignoreAjax: [/\/action_log\//],
+      ignoreStatic: [/\.tanx\.com\//, /\.alicdn\.com\//, /\.mediav\.com/, /\.cnzz\.com/]
+    });</script><link rel=stylesheet href=//s3.pstatp.com/toutiao/static/css/page/index_node/index.42c5800410b59454a6c7df915677bfac.css><script>!function(e){function t(a){if(o[a])return o[a].exports;var r=o[a]={exports:{},id:a,loaded:!1};return e[a].call(r.exports,r,r.exports,t),r.loaded=!0,r.exports}var a=window.webpackJsonp;window.webpackJsonp=function(c,n){for(var p,s,l=0,f=[];l<c.length;l++)s=c[l],r[s]&&f.push.apply(f,r[s]),r[s]=0;for(p in n)Object.prototype.hasOwnProperty.call(n,p)&&(e[p]=n[p]);for(a&&a(c,n);f.length;)f.shift().call(null,t);if(n[0])return o[0]=0,t(0)};var o={},r={0:0};t.e=function(e,a){if(0===r[e])return a.call(null,t);if(void 0!==r[e])r[e].push(a);else{r[e]=[a];var o=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src=t.p+"static/js/"+e+"."+{1:"4819f4fef798bb992992",2:"d23b2e2c9289b14a1282",3:"198df0fa9ec3f10cb23d",4:"914bc8a23a632dae259e",5:"49a6924cb31c971edf8a"}[e]+".js",o.appendChild(c)}},t.m=e,t.c=o,t.p="/toutiao/",t.p="//s3.pstatp.com/toutiao/"}([]);</script></head><body><div id=app></div><script src=//s3.pstatp.com/inapp/lib/raven.js crossorigin=anonymous></script><script>;(function(window) {
+    // sentry
+    window.Raven && Raven.config('//key@m.toutiao.com/log/sentry/v2/96', {
+      whitelistUrls: [/pstatp\.com/],
+      sampleRate: 0.5,
+      shouldSendCallback: function(data) {
+        var ua = navigator && navigator.userAgent;
+        var isDeviceOK = !/Mobile|Linux/i.test(navigator.userAgent);
+        if (data.message && data.message.indexOf('p.tanx.com') !== -1) {
+          return false;
+        }
+        return isDeviceOK;
+      },
+      tags: {
+        bid: 'toutiao_pc',
+        pid: 'article_detail_new'
+      },
+      autoBreadcrumbs: {
+        'xhr': false,
+        'console': true,
+        'dom': true,
+        'location': true
+      }
+    }).install();
+  })(window);</script><script>var PAGE_SWITCH = {"anti_spam":false,"migScriptUrl":"//s3a.pstatp.com/toutiao/picc_mig/dist/img.min.js","nineteen":"","picVersion":"20180206_01","qihuAdShow":false,"taVersion":"20171221_1","ttAdShow":true};</script><script>var BASE_DATA = {
+    userInfo: {
+      id: 0,
+      userName: '',
+      avatarUrl: '',
+      isPgc: false,
+      isOwner: false
+    },
+    headerInfo: {
+      id: 0,
+      isPgc: false,
+      userName: '',
+      avatarUrl: '',
+      isHomePage: false,
+      chineseTag: '科技',
+      crumbTag: 'ch/news_tech/',
+      hasBar: true
+    },
+    articleInfo: {
+      title: '苹果WWDC时间敲定 iOS12大升级且有新MacBook/iPad',
+      content: '&lt;p&gt;&lt;strong&gt;【PConline 资讯】&lt;/strong&gt;“当科技与创造力联系在一起时，不可思议的想法就会诞生。今年夏天，我们邀请了来自世界各地的数千名优秀人才加入我们的行列，将他们的想法变为现实。”苹果开发者官网更新了2018年第29届苹果全球开发者大会（Apple Worldwide Developers Conference）的相关信息。&lt;/p&gt;&lt;p&gt;WWDC 页面（developer.apple.com/wwdc/）上显示，会议将再次在加州圣何塞 McEnery 会议中心举行，从当地时间 6 月 4 日至 8 日（北京时间6月5日凌晨1点开幕）&lt;/p&gt;&lt;img src&#x3D;&quot;http://p1.pstatp.com/large/6ec5000cd1025a2f6965&quot; img_width&#x3D;&quot;600&quot; img_height&#x3D;&quot;400&quot; alt&#x3D;&quot;苹果WWDC时间敲定 iOS12大升级且有新MacBook/iPad&quot; inline&#x3D;&quot;0&quot;&gt;&lt;p&gt;按照惯例，今年的WWDC苹果有望推出新的软件系统：iOS 12，macOS 10.14，tvOS 12，watchOS 5 以及 HomePod 的相关软件。而硬件方面，据悉苹果可能会推出新款低价 MacBook Air，以及配备 Face ID 的 iPad Pro。&lt;/p&gt;&lt;img src&#x3D;&quot;http://p3.pstatp.com/large/6ec80000a8f47a4b87ea&quot; img_width&#x3D;&quot;600&quot; img_height&#x3D;&quot;400&quot; alt&#x3D;&quot;苹果WWDC时间敲定 iOS12大升级且有新MacBook/iPad&quot; inline&#x3D;&quot;0&quot;&gt;&lt;p&gt;低价 MacBook Air 将会搭载13英寸的 Retina 显示屏，分辨率为 2560×1600。而新款 iPad Pro 据悉将会采用和 iPhone X 类似的“刘海”全面屏，取消 Home 按键，配备人脸识别 Face ID，并会搭载 A11X 核心。&lt;/p&gt;&lt;img src&#x3D;&quot;http://p3.pstatp.com/large/65c9000d5d51c8840883&quot; img_width&#x3D;&quot;600&quot; img_height&#x3D;&quot;400&quot; alt&#x3D;&quot;苹果WWDC时间敲定 iOS12大升级且有新MacBook/iPad&quot; inline&#x3D;&quot;0&quot;&gt;&lt;p&gt;虽然不少网友表示“尽管推出新系统，但打死都不能升级啊！”，但还是不能阻止我们对 iOS 12 有哪些新功能的好奇，下面列出几点升级功能：&lt;/p&gt;&lt;p&gt;iOS 12 将会和 macOS 10.14，更好地实现跨平台应用程序的支持；&lt;/p&gt;&lt;p&gt;新的医疗和健康功能将会推出；&lt;/p&gt;&lt;p&gt;HomePod 将获得更新，可以禁用 Siri；&lt;/p&gt;&lt;p&gt;加入家长控制功能，监督小孩青少年使用 iPhone等硬件；&lt;/p&gt;&lt;p&gt;将全面改进 iBooks 应用；&lt;/p&gt;&lt;p&gt;人脸识别 Face ID 会有更多新用法，支持访客模式，支持应用锁；&lt;/p&gt;&lt;p&gt;搭载 iOS 12 的 iPad 能打开并随意切换多个 App，界面类似 Safari 的多个标签页；&lt;/p&gt;',
+      groupId: '6532631549039362573',
+      itemId: '6532631549039362573',
+      type: 1,
+      subInfo: {
+        isOriginal: false,
+        source: '太平洋电脑网',
+        time: '2018-03-14 10:31:00'
+      },
+      tagInfo: {
+        tags: [{"name":"WWDC"},{"name":"iOS"},{"name":"iPad Pro"},{"name":"iPhone"},{"name":"MacBook"}],
+        groupId: '6532631549039362573',
+        itemId: '6532631549039362573',
+        repin: 0,
+      },
+      has_extern_link: 0
+    },
+    commentInfo: {
+      groupId: '6532631549039362573',
+      itemId: '6532631549039362573',
+      comments_count: 8,
+      ban_comment: 0
+    },
+    mediaInfo: {
+      uid: '3389144301',
+      name: '太平洋电脑网',
+      avatar: '//p3.pstatp.com/large/1090/439273757',
+      openUrl: '/c/user/3389144301/',
+      follow: false
+    },
+    pgcInfo: {"media_info":{"open_url":"/c/user/3389144301/","avatar_url":"https://p3.pstatp.com/large/1090/439273757","media_id":3391255467,"name":"太平洋电脑网","user_verified":false},"articles":[{"item_id":"6532971984337240583","url":"/item/6532971984337240583","title":"史蒂芬·霍金：我不怕被抛进黑洞 我是它们的主人"},{"item_id":"6532858438739821060","url":"/item/6532858438739821060","title":"了解这些小知识 选购SSD竟变得如此简单！"},{"item_id":"6532858383416951300","url":"/item/6532858383416951300","title":"哈喽 moto！联想moto新机曝光，刀锋重拾想象"},{"item_id":"6532850753533379086","url":"/item/6532850753533379086","title":"想换显卡了？来看看性能爆表高性能显卡盘点"}]},
+    feedInfo: {
+      url: '/api/pc/feed/',
+      category: '__all__',
+      initList: []
+    },
+    shareInfo: {
+      shareUrl: 'https://m.toutiao.com/group/6532631549039362573/',
+      abstract: '”，但还是不能阻止我们对 iOS 12 有哪些新功能的好奇，下面列出几点升级功能：iOS 12 将会和 macOS 10.14，更好地实现跨平台应用程序的支持；新的医疗和健康功能将会推出；HomePod 将获得更新，可以禁用 Siri；加入家长控制功能，监督小孩青少年使用 iPh'.replace(/<br \/>/ig, ''),
+      commentCount: '8',
+      ban_comment: 0
+    }
+  };</script><script>var imgUrl = '/c/ushpvc5lezyl0vprlybaf9a4im3l1nundefinedjvpsgswbbubxje8wapsdims4i59sb/';</script><script>tac='i)68yuk5us4s!i$1boks"'</script><script type=text/javascript crossorigin=anonymous src=//s3b.pstatp.com/toutiao/static/js/vendor.914bc8a23a632dae259e.js></script><script type=text/javascript crossorigin=anonymous src=//s3b.pstatp.com/toutiao/static/js/page/index_node/index.4819f4fef798bb992992.js></script><script type=text/javascript crossorigin=anonymous src=//s3a.pstatp.com/toutiao/static/js/ttstatistics.49a6924cb31c971edf8a.js></script><style>a[href^='http://www.cnzz.com/stat'] {
+      display: none!important;
+  }</style><script src="//s95.cnzz.com/z_stat.php?id=1259612802&web_id=1259612802" language=JavaScript></script><script>if (window.ttAnalysis) {
+    ttAnalysis.setup({
+      c: 'detail_article'
+    });
+    ttAnalysis.send('pageview', {});
+  }</script><script>document.getElementsByTagName('body')[0].addEventListener('click', function(e) {
+    var target = e.target,
+        ga_event,
+        ga_category,
+        ga_label,
+        ga_value;
+    while(target && target.nodeName.toUpperCase() !== 'BODY') {
+      ga_event = target.getAttribute('ga_event');
+      ga_category = target.getAttribute('ga_category') || 'detail_article';
+      ga_label = target.getAttribute('ga_label') || '';
+      ga_value = target.getAttribute('ga_value') || 1;
+      ga_event && window._czc && _czc.push(﻿["_trackEvent", ga_category, ga_event, ga_label, ga_value]);
+      ga_event && window.ttAnalysis && ttAnalysis.send('event', { ev: ga_event });
+      target = target.parentNode;
+    }
+});</script></body></html>

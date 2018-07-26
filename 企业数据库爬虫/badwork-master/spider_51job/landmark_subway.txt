@@ -1,0 +1,1478 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>【广州天河体育中心招聘_最新广州天河体育中心招聘信息】-前程无忧</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="mobile-agent" content="format=xhtml;url=http://m.51job.com/jobs/guangzhou_hd91/">
+<meta name="mobile-agent" content="format=html5;url=http://m.51job.com/jobs/guangzhou_hd91/">
+<meta name="mobile-agent" content="format=wml;url=http://m.51job.com/jobs/guangzhou_hd91/">
+<meta name="description" content="前程无忧为您提供最新最全的广州天河体育中心招聘、求职信息，找工作、找人才就上广州前程无忧招聘专区！掌握前程，职场无忧！">
+<meta name="keywords" content="广州天河体育中心,广州天河体育中心招聘,最新广州天河体育中心招聘信息">
+<meta name="robots" content="all">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="applicable-device" content="pc">
+<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+<link href="http://js.51jobcdn.com/in/css/style.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/search.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/my.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/jobs/base.css?20180116" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/jobs/reset.css?20170328" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/jobs/tForm.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/jobs/tSearch-layout.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/graycss0.css?20180308" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/2017/public/base.css?20170605" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/2017/public/form.css?20170605" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/2017/public/panel-pop.css?20170605" rel="stylesheet" type="text/css" />
+<link href="http://jobs.51job.com/guangzhou_hd91/" rel="canonical" />
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/jquery.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/login.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.ZzLayer.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.ZzLayer.ExtZzLayer.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/JsBase.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/search/Base.Search_Transition.js?20170605"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/jobs/hotjobs.js?20180308"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/search/search.js?20180125"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/jobs/jobdetail.js?20180125"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/layer.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/common_layer.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/common_select.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/layer_main_map.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/layer_main.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/layer_main_navigation.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/area_array_c.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/layer/layer_c.js?20171103"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/delivery/delivery.js?20170816"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2016/my/my_collection.js?20180308"></script>
+</head>
+<body>
+<div class="header">
+    <!-- bar start -->
+    <div class="bar">
+        <div class="in">
+            <div class="language">
+                <ul id="languagelist">
+                    <li class="tle"><span class="list">简</span><em class="icon_arrow"></em></li>
+                    <li><a href="http://big5.51job.com/gate/big5/www.51job.com/" rel="external nofollow">繁</a></li>
+					<li class="last"><a href="http://www.51job.com//default-e.php" rel="external nofollow">EN</a></li>
+                    <script language="javascript">
+                        if(location.hostname == "big5.51job.com")
+                        {
+                            $('#languagelist li span').html("繁");
+                            $('#languagelist li:nth-child(2) a').html("简");
+                            $('#languagelist li:nth-child(2) a').attr('href','javascript:void(0)');
+                            $('#languagelist li:nth-child(2) a').click(function(){location.href="ht" + "tp://www.51job.com"});
+                            $('#languagelist li:nth-child(3) a').attr('href','javascript:void(0)');
+                            $('#languagelist li:nth-child(3) a').click(function(){location.href="ht" + "tp://www.51job.com/default-e.php"});
+                        }
+                    </script>
+                </ul>
+            </div>
+            <span class="l">|</span>
+            <div class="app">
+                <ul>
+                    <li><em class="e_icon"></em><a href="http://app.51job.com/index.html">APP下载</a><em class="icon_arrow"></em></li>
+                    <li>
+                        <img width="80" height="80" src="http://img01.51jobcdn.com/im/2016/code/web_top.png" alt="app download">
+                        <p><a href="http://app.51job.com/index.html">APP下载</a></p>
+                    </li>
+                </ul>
+            </div>
+
+            <p class="rlk">
+                <a href="http://jobs.51job.com/">招聘信息</a>
+                <span class="l">|</span>
+                <a href="https://ehire.51job.com/">企业服务</a>
+            </p>
+            <div class="uer">
+
+                                    <p class="op">
+                        <a href="https://login.51job.com/login.php?url=http%3A%2F%2Fjobs.51job.com%2Fguangzhou_hd91%2F" rel="external nofollow">登录</a> / <a href="https://login.51job.com/register.php?url=http%3A%2F%2Fjobs.51job.com%2Fguangzhou_hd91%2F" rel="external nofollow">注册</a>
+                    </p>
+                            </div>
+        </div>
+    </div>
+    <!-- top end -->
+    <!-- nag start -->
+	<div class="pop-city" style="display:none;position: absolute; z-index: 1000;" id="area_channel_layer">
+    <div class="tle">
+        地区选择
+        <em class="close" onclick="jvascript:$('#area_channel_layer,#area_channel_layer_backdrop').hide();"></em>
+    </div>
+    <div class="pcon">
+        <div class="ht">
+            <label>热门城市</label>
+                <a href="http://www.51job.com/beijing">北京</a>
+                <a href="http://www.51job.com/shanghai">上海</a>
+                <a href="http://www.51job.com/guangzhou">广州</a>
+                <a href="http://www.51job.com/shenzhen">深圳</a>
+                <a href="http://www.51job.com/wuhan">武汉</a>
+                <a href="http://www.51job.com/xian">西安</a>
+                <a href="http://www.51job.com/hangzhou">杭州</a>
+                <a href="http://www.51job.com/nanjing">南京</a>
+                <a href="http://www.51job.com/chengdu">成都</a>
+                <a href="http://www.51job.com/chongqing">重庆</a>
+        </div>
+        <div class="cbox">
+            <ul  id="area_channel_layer_list">
+                <li class="on" onclick="areaChannelChangeTab('abc', this)">A B C</li>
+                <li onclick="areaChannelChangeTab('def', this)">D E F</li>
+                <li onclick="areaChannelChangeTab('gh', this)">G H</li>
+                <li onclick="areaChannelChangeTab('jkl', this)">J K L</li>
+                <li onclick="areaChannelChangeTab('mnp', this)">M N P</li>
+                <li onclick="areaChannelChangeTab('qrs', this)">Q R S</li>
+                <li onclick="areaChannelChangeTab('twx', this)">T W X</li>
+                <li onclick="areaChannelChangeTab('yz', this)">Y Z</li>
+            </ul>
+            <div class="clst"  id="area_channel_layer_all">
+                <div class="e" name="area_channel_div_abc">
+                    <span><a href="http://www.51job.com/anshan">鞍山</a></span>
+                    <span><a href="http://www.51job.com/anqing">安庆</a></span>
+                    <span><a href="http://www.51job.com/anyang">安阳</a></span>
+                    <span><a href="http://www.51job.com/beijing">北京</a></span>
+                    <span><a href="http://www.51job.com/baotou">包头</a></span>
+                    <span><a href="http://www.51job.com/baoding">保定</a></span>
+                    <span><a href="http://www.51job.com/bangbu">蚌埠</a></span>
+                    <span><a href="http://www.51job.com/baoji">宝鸡</a></span>
+                    <span><a href="http://www.51job.com/binzhou">滨州</a></span>
+                    <span><a href="http://www.51job.com/changchun">长春</a></span>
+                    <span><a href="http://www.51job.com/changsha">长沙</a></span>
+                    <span><a href="http://www.51job.com/chengdu">成都</a></span>
+                    <span><a href="http://www.51job.com/chongqing">重庆</a></span>
+                    <span><a href="http://www.51job.com/changzhou">常州</a></span>
+                    <span><a href="http://www.51job.com/changde">常德</a></span>
+                    <span><a href="http://www.51job.com/changshu">常熟</a></span>
+                    <span><a href="http://www.51job.com/cangzhou">沧州</a></span>
+                    <span><a href="http://www.51job.com/chaozhou">潮州</a></span>
+                    <span><a href="http://www.51job.com/chenzhou">郴州</a></span>
+                    <span><a href="http://www.51job.com/chifeng">赤峰</a></span>
+                    <span><a href="http://www.51job.com/chuzhou">滁州</a></span>
+                    <span><a href="http://www.51job.com/changzhi">长治</a></span>
+                </div>
+                <div class="e" name="area_channel_div_def" style="display:none">
+                    <span><a href="http://www.51job.com/dalian">大连</a></span>
+                    <span><a href="http://www.51job.com/dongguan">东莞</a></span>
+                    <span><a href="http://www.51job.com/dandong">丹东</a></span>
+                    <span><a href="http://www.51job.com/daqing">大庆</a></span>
+                    <span><a href="http://www.51job.com/dazhou">达州</a></span>
+                    <span><a href="http://www.51job.com/datong">大同</a></span>
+                    <span><a href="http://www.51job.com/deyang">德阳</a></span>
+                    <span><a href="http://www.51job.com/dezhou">德州</a></span>
+                    <span><a href="http://www.51job.com/dongying">东营</a></span>
+                    <span><a href="http://www.51job.com/eerduosi">鄂尔多斯</a></span>
+                    <span><a href="http://www.51job.com/ezhou">鄂州</a></span>
+                    <span><a href="http://www.51job.com/fuzhou">福州</a></span>
+                    <span><a href="http://www.51job.com/foshan">佛山</a></span>
+                    <span><a href="http://www.51job.com/fushun">抚顺</a></span>
+                    <span><a href="http://www.51job.com/fz">抚州</a></span>
+                    <span><a href="http://www.51job.com/fuyang">阜阳</a></span>
+                </div>
+                <div class="e" name="area_channel_div_gh" style="display:none">
+                    <span><a href="http://www.51job.com/guangzhou">广州</a></span>
+                    <span><a href="http://www.51job.com/guiyang">贵阳</a></span>
+                    <span><a href="http://www.51job.com/ganzhou">赣州</a></span>
+                    <span><a href="http://www.51job.com/guangan">广安</a></span>
+                    <span><a href="http://www.51job.com/guangyuan">广元</a></span>
+                    <span><a href="http://www.51job.com/guigang">贵港</a></span>
+                    <span><a href="http://www.51job.com/guilin">桂林</a></span>
+                    <span><a href="http://www.51job.com/harbin">哈尔滨</a></span>
+                    <span><a href="http://www.51job.com/hangzhou">杭州</a></span>
+                    <span><a href="http://www.51job.com/hefei">合肥</a></span>
+                    <span><a href="http://www.51job.com/haikou">海口</a></span>
+                    <span><a href="http://www.51job.com/huhhot">呼和浩特</a></span>
+                    <span><a href="http://www.51job.com/huizhou">惠州</a></span>
+                    <span><a href="http://www.51job.com/hengyang">衡阳</a></span>
+                    <span><a href="http://www.51job.com/huaian">淮安</a></span>
+                    <span><a href="http://www.51job.com/huzhou">湖州</a></span>
+                    <span><a href="http://www.51job.com/handan">邯郸</a></span>
+                    <span><a href="http://www.51job.com/hanzhong">汉中</a></span>
+                    <span><a href="http://www.51job.com/heyuan">河源</a></span>
+                    <span><a href="http://www.51job.com/heze">菏泽</a></span>
+                    <span><a href="http://www.51job.com/hengshui">衡水</a></span>
+                    <span><a href="http://www.51job.com/huaihua">怀化</a></span>
+                    <span><a href="http://www.51job.com/huaibei">淮北</a></span>
+                    <span><a href="http://www.51job.com/huainan">淮南</a></span>
+                    <span><a href="http://www.51job.com/huanggang">黄冈</a></span>
+                    <span><a href="http://www.51job.com/huangshi">黄石</a></span>
+                </div>
+                <div class="e" name="area_channel_div_jkl" style="display:none">
+                    <span><a href="http://www.51job.com/jinan">济南</a></span>
+                    <span><a href="http://www.51job.com/jiaxing">嘉兴</a></span>
+                    <span><a href="http://www.51job.com/jinhua">金华</a></span>
+                    <span><a href="http://www.51job.com/jilin">吉林</a></span>
+                    <span><a href="http://www.51job.com/jiangmen">江门</a></span>
+                    <span><a href="http://www.51job.com/jingzhou">荆州</a></span>
+                    <span><a href="http://www.51job.com/jining">济宁</a></span>
+                    <span><a href="http://www.51job.com/jiujiang">九江</a></span>
+                    <span><a href="http://www.51job.com/jian">吉安</a></span>
+                    <span><a href="http://www.51job.com/jiaozuo">焦作</a></span>
+                    <span><a href="http://www.51job.com/jieyang">揭阳</a></span>
+                    <span><a href="http://www.51job.com/jinzhou">锦州</a></span>
+                    <span><a href="http://www.51job.com/jinzhong">晋中</a></span>
+                    <span><a href="http://www.51job.com/jingmen">荆门</a></span>
+                    <span><a href="http://www.51job.com/kunming">昆明</a></span>
+                    <span><a href="http://www.51job.com/kunshan">昆山</a></span>
+                    <span><a href="http://www.51job.com/kaifeng">开封</a></span>
+                    <span><a href="http://www.51job.com/lanzhou">兰州</a></span>
+                    <span><a href="http://www.51job.com/langfang">廊坊</a></span>
+                    <span><a href="http://www.51job.com/linyi">临沂</a></span>
+                    <span><a href="http://www.51job.com/luoyang">洛阳</a></span>
+                    <span><a href="http://www.51job.com/lianyungang">连云港</a></span>
+                    <span><a href="http://www.51job.com/liuzhou">柳州</a></span>
+                    <span><a href="http://www.51job.com/leshan">乐山</a></span>
+                    <span><a href="http://www.51job.com/liaocheng">聊城</a></span>
+                    <span><a href="http://www.51job.com/linfen">临汾</a></span>
+                    <span><a href="http://www.51job.com/liuan">六安</a></span>
+                    <span><a href="http://www.51job.com/loudi">娄底</a></span>
+                    <span><a href="http://www.51job.com/luzhou">泸州</a></span>
+                    <span><a href="http://www.51job.com/luohe">漯河</a></span>
+                </div>
+                <div class="e" name="area_channel_div_mnp" style="display:none">
+                    <span><a href="http://www.51job.com/mianyang">绵阳</a></span>
+                    <span><a href="http://www.51job.com/maanshan">马鞍山</a></span>
+                    <span><a href="http://www.51job.com/maoming">茂名</a></span>
+                    <span><a href="http://www.51job.com/meishan">眉山</a></span>
+                    <span><a href="http://www.51job.com/meizhou">梅州</a></span>
+                    <span><a href="http://www.51job.com/nanjing">南京</a></span>
+                    <span><a href="http://www.51job.com/ningbo">宁波</a></span>
+                    <span><a href="http://www.51job.com/nanchang">南昌</a></span>
+                    <span><a href="http://www.51job.com/nantong">南通</a></span>
+                    <span><a href="http://www.51job.com/nanning">南宁</a></span>
+                    <span><a href="http://www.51job.com/nanchong">南充</a></span>
+                    <span><a href="http://www.51job.com/nanyang">南阳</a></span>
+                    <span><a href="http://www.51job.com/neijiang">内江</a></span>
+                    <span><a href="http://www.51job.com/ningde">宁德</a></span>
+                    <span><a href="http://www.51job.com/pingdingshan">平顶山</a></span>
+                    <span><a href="http://www.51job.com/putian">莆田</a></span>
+                    <span><a href="http://www.51job.com/puyang">濮阳</a></span>
+                </div>
+                <div class="e" name="area_channel_div_qrs" style="display:none">
+                    <span><a href="http://www.51job.com/qingdao">青岛</a></span>
+                    <span><a href="http://www.51job.com/quanzhou">泉州</a></span>
+                    <span><a href="http://www.51job.com/qinhuangdao">秦皇岛</a></span>
+                    <span><a href="http://www.51job.com/qingyuan">清远</a></span>
+                    <span><a href="http://www.51job.com/qiqihaer">齐齐哈尔</a></span>
+                    <span><a href="http://www.51job.com/quzhou">衢州</a></span>
+                    <span><a href="http://www.51job.com/qujing">曲靖</a></span>
+                    <span><a href="http://www.51job.com/rizhao">日照</a></span>
+                    <span><a href="http://www.51job.com/shanghai">上海</a></span>
+                    <span><a href="http://www.51job.com/shenzhen">深圳</a></span>
+                    <span><a href="http://www.51job.com/shenyang">沈阳</a></span>
+                    <span><a href="http://www.51job.com/shijiazhuang">石家庄</a></span>
+                    <span><a href="http://www.51job.com/suzhou">苏州</a></span>
+                    <span><a href="http://www.51job.com/sanya">三亚</a></span>
+                    <span><a href="http://www.51job.com/shaoxing">绍兴</a></span>
+                    <span><a href="http://www.51job.com/shantou">汕头</a></span>
+                    <span><a href="http://www.51job.com/shanwei">汕尾</a></span>
+                    <span><a href="http://www.51job.com/shangqiu">商丘</a></span>
+                    <span><a href="http://www.51job.com/shangrao">上饶</a></span>
+                    <span><a href="http://www.51job.com/shaoguan">韶关</a></span>
+                    <span><a href="http://www.51job.com/shaoyang">邵阳</a></span>
+                    <span><a href="http://www.51job.com/shiyan">十堰</a></span>
+                    <span><a href="http://www.51job.com/suizhou">随州</a></span>
+                    <span><a href="http://www.51job.com/suining">遂宁</a></span>
+                    <span><a href="http://www.51job.com/suqian">宿迁</a></span>
+                    <span><a href="http://www.51job.com/sz">宿州</a></span>
+                </div>
+                <div class="e" name="area_channel_div_twx" style="display:none">
+                    <span><a href="http://www.51job.com/tianjin">天津</a></span>
+                    <span><a href="http://www.51job.com/taiyuan">太原</a></span>
+                    <span><a href="http://www.51job.com/tz">台州</a></span>
+                    <span><a href="http://www.51job.com/tangshan">唐山</a></span>
+                    <span><a href="http://www.51job.com/taizhou">泰州</a></span>
+                    <span><a href="http://www.51job.com/tieling">铁岭</a></span>
+                    <span><a href="http://www.51job.com/taian">泰安</a></span>
+                    <span><a href="http://www.51job.com/wuhan">武汉</a></span>
+                    <span><a href="http://www.51job.com/wuxi">无锡</a></span>
+                    <span><a href="http://www.51job.com/wenzhou">温州</a></span>
+                    <span><a href="http://www.51job.com/urumqi">乌鲁木齐</a></span>
+                    <span><a href="http://www.51job.com/wuhu">芜湖</a></span>
+                    <span><a href="http://www.51job.com/weifang">潍坊</a></span>
+                    <span><a href="http://www.51job.com/weihai">威海</a></span>
+                    <span><a href="http://www.51job.com/weinan">渭南</a></span>
+                    <span><a href="http://www.51job.com/xian">西安</a></span>
+                    <span><a href="http://www.51job.com/xiamen">厦门</a></span>
+                    <span><a href="http://www.51job.com/xuzhou">徐州</a></span>
+                    <span><a href="http://www.51job.com/xiangyang">襄阳</a></span>
+                    <span><a href="http://www.51job.com/xiangtan">湘潭</a></span>
+                    <span><a href="http://www.51job.com/xianyang">咸阳</a></span>
+                    <span><a href="http://www.51job.com/xining">西宁</a></span>
+                    <span><a href="http://www.51job.com/xianning">咸宁</a></span>
+                    <span><a href="http://www.51job.com/xiaogan">孝感</a></span>
+                    <span><a href="http://www.51job.com/xinxiang">新乡</a></span>
+                    <span><a href="http://www.51job.com/xinyang">信阳</a></span>
+                    <span><a href="http://www.51job.com/xingtai">邢台</a></span>
+                    <span><a href="http://www.51job.com/xuchang">许昌</a></span>
+                    <span><a href="http://www.51job.com/xuancheng">宣城</a></span>
+                </div>
+                <div class="e" name="area_channel_div_yz" style="display:none">
+                    <span><a href="http://www.51job.com/yantai">烟台</a></span>
+                    <span><a href="http://www.51job.com/yangzhou">扬州</a></span>
+                    <span><a href="http://www.51job.com/yichang">宜昌</a></span>
+                    <span><a href="http://www.51job.com/yancheng">盐城</a></span>
+                    <span><a href="http://www.51job.com/yiwu">义乌</a></span>
+                    <span><a href="http://www.51job.com/yingkou">营口</a></span>
+                    <span><a href="http://www.51job.com/yinchuan">银川</a></span>
+                    <span><a href="http://www.51job.com/yangjiang">阳江</a></span>
+                    <span><a href="http://www.51job.com/yibin">宜宾</a></span>
+                    <span><a href="http://www.51job.com/yichune">宜春</a></span>
+                    <span><a href="http://www.51job.com/yiyang">益阳</a></span>
+                    <span><a href="http://www.51job.com/yongzhou">永州</a></span>
+                    <span><a href="http://www.51job.com/yulin">玉林</a></span>
+                    <span><a href="http://www.51job.com/yueyang">岳阳</a></span>
+                    <span><a href="http://www.51job.com/yuncheng">运城</a></span>
+                    <span><a href="http://www.51job.com/zhangzhou">漳州</a></span>
+                    <span><a href="http://www.51job.com/zhengzhou">郑州</a></span>
+                    <span><a href="http://www.51job.com/zhongshan">中山</a></span>
+                    <span><a href="http://www.51job.com/zhuhai">珠海</a></span>
+                    <span><a href="http://www.51job.com/zhenjiang">镇江</a></span>
+                    <span><a href="http://www.51job.com/zhuzhou">株洲</a></span>
+                    <span><a href="http://www.51job.com/zhanjiang">湛江</a></span>
+                    <span><a href="http://www.51job.com/zhaoqing">肇庆</a></span>
+                    <span><a href="http://www.51job.com/zhangjiagang">张家港</a></span>
+                    <span><a href="http://www.51job.com/zibo">淄博</a></span>
+                    <span><a href="http://www.51job.com/zaozhuang">枣庄</a></span>
+                    <span><a href="http://www.51job.com/zhangjiakou">张家口</a></span>
+                    <span><a href="http://www.51job.com/zhoukou">周口</a></span>
+                    <span><a href="http://www.51job.com/zhumadian">驻马店</a></span>
+                    <span><a href="http://www.51job.com/zunyi">遵义</a></span>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+<div id="area_channel_layer_backdrop" class="layer_back_drop_class" style="z-index:999;position:absolute;z-index:999;left:0;top:0;display:none"></div>
+
+<script>
+    function areaChannelChangeTab(sName, oEvent)
+    {
+        $("#area_channel_layer_all").children().hide();
+        $("#area_channel_layer_list").children().removeClass("on");
+        $(oEvent).addClass("on");
+        $("#area_channel_layer_all").children("div[name='area_channel_div_" + sName + "']").show();
+        $("#area_channel_layer_backdrop").show();
+    }
+
+    function openAreaChannelLayer()
+    {
+        setLayerPosition();
+        $("#area_channel_layer,#area_channel_layer_backdrop").show();
+    }
+
+    function setLayerPosition()
+    {
+        var dl = $(document).scrollLeft();
+        var dt = $(document).scrollTop();
+        var ww = $(document).width();
+        var dwh = $(document).height();
+        var wwh = $(window).height();
+        var ow = $("#area_channel_layer").width();
+        var oh = $("#area_channel_layer").height();
+        var fLeft = (ww - ow) / 2 + dl;
+        var fTop = (wwh - oh) * 382 / 1000 + dt;//黄金比例
+        $("#area_channel_layer").css({'left': Math.max(parseInt(fLeft), dl), 'top': Math.max(parseInt(fTop), dt)});
+        $("#area_channel_layer_backdrop").css({'width': ww + 'px', 'height': dwh + 'px'});
+    }
+
+    $(window).resize(function(){
+        if(!$("#area_channel_layer").is(":hidden"))
+        {
+            setLayerPosition();
+        }
+    });
+</script>
+    <div class="nag" id="topIndex">
+        <div class="in">
+            <a href="http://www.51job.com/"><img class="logo" id="logo" width="116" height="46" src="http://img01.51jobcdn.com/im/2016/logo/logo_20jubilee_116x46.png" alt="前程无忧"></a>
+			<!--LOGO-->
+							<img class="slogen" width="162" height="17" src="http://img05.51jobcdn.com/im/2016/header/slogen.png">
+								       	<a  class="ctlink" target="_blank" href="http://www.51job.com/guangzhou/" class="lareaurl">广州招聘频道</a>
+							<p class="nlink">
+                <a class="" href="http://www.51job.com/">首页</a>
+                <a class="" href="http://search.51job.com/jobsearch/search_result.php">职位搜索</a>
+                <a class="" href="javascript:openAreaChannelLayer()">地区频道</a>
+                <a class="" href="http://www.51job.com/default_res.php">职场资讯</a>
+                <a class="" href="http://xy.51job.com/default-xs.php">校园招聘</a>
+                <a href="http://my.51job.com/my/gojingying.php?direct=https%3A%2F%2Fwww.51jingying.com%2Fcommon%2Fsearchcase.php%3F5CC4CE%3D1008" target="_blank">无忧精英</a>
+            </p>
+        </div>
+    </div>
+    <!-- nag end -->
+</div>	<div class="bdnav">
+		您所在的位置：<a href="http://jobs.51job.com/">最新招聘信息</a>
+
+			<span>&gt;</span><a href="http://jobs.51job.com/all/">全国职位信息</a>
+								<span>&gt;</span><a href="http://jobs.51job.com/guangzhou/">广州招聘网</a>
+								</div>
+	<div class="maincenter">
+			<div class="fbox">
+	<div class="in">
+		<div class="d_search Fm">
+			<form name="searchForm" id="searchForm" action="http://search.51job.com/jobsearch/search_result.php" method="post">
+				<div class="el on">
+					<ul id="kwdTypeSelUl">
+						<li>全文<em class="dicon"></em></li>
+						<li><a href="javascript:void(0);" onclick="kwdtypeChangeResult(1);">公司</a></li>
+					</ul>
+					<input name="keywordtype" id="keywordtype" type="hidden" value="2" />
+					<p class="ipt">
+						<input type="text" name="keyword" id="kwdselectid" placeholder="请输入关键字" value="" class="mytxt at">
+					</p>
+					<p class="addbut" id="work_position_click">
+						<input type="button" id="work_position_input" value="工作地点" class="at c_999">
+						<em class="dicon"></em>
+						<input name="jobarea" id="jobarea" type="hidden" value="">
+					</p>
+					<!-- 关键字联想 -->
+					<div class="ul" id="KwdSearchResult" style="display:none;">
+					</div>
+					<!-- history -->
+					<div class="ul" id="searchHistory" style="display:none;z-index: 4;">
+						<span class="tl off"><span class="bg b_his">历史记录</span></span>
+													<span class="li">暂无</span>
+											</div>
+				</div>
+				<button type="submit">搜 索</button>
+							</form>
+		</div>
+		<p class="ht">
+			职位推荐：
+							<a href="http://jobs.51job.com/hj03030180/">律师事务所合伙人</a>
+								<a href="http://jobs.51job.com/hj26030287/">兼职</a>
+								<a href="http://jobs.51job.com/hj04160366/">跟单翻译</a>
+								<a href="http://jobs.51job.com/hj09180422/">测绘师</a>
+								<a href="http://jobs.51job.com/hj09180424/">测量实习/学徒生</a>
+								<a href="http://jobs.51job.com/hj06140561/">直营店导购</a>
+								<a href="http://jobs.51job.com/hj14120638/">弱电工程师</a>
+								<a href="http://jobs.51job.com/hj44031074/">车间储备干部</a>
+								<a href="http://jobs.51job.com/hj58001123/">土建预算</a>
+								<a href="http://jobs.51job.com/hj49031183/">兼职平面</a>
+								<a href="http://jobs.51job.com/hj60001424/">导购</a>
+								<a href="http://jobs.51job.com/hj29001464/">注册城市规划师</a>
+								<a href="http://jobs.51job.com/hj57001681/">医生</a>
+								<a href="http://jobs.51job.com/hj50001754/">工程监理</a>
+								<a href="http://jobs.51job.com/hj17001842/">杂志编辑</a>
+						</p>
+	</div>
+</div>		<div class="filter">
+			<div class="tp">
+				 <p><strong>您的城市：</strong><a class="mk"  href="http://jobs.51job.com/suzhou/">苏州</a></p><b>周边城市：</b><a href="http://jobs.51job.com/nanjing/">南京</a>&nbsp;<a href="http://jobs.51job.com/kunshan/">昆山</a>&nbsp;<a href="http://jobs.51job.com/wuxi/">无锡</a>&nbsp;<a href="http://jobs.51job.com/changshu/">常熟</a>&nbsp;<a href="http://jobs.51job.com/jiaxing/">嘉兴</a>&nbsp;<a href="http://jobs.51job.com/zhangjiagang/">张家港</a>&nbsp;<a href="http://jobs.51job.com/huzhou/">湖州</a>&nbsp;<a href="http://jobs.51job.com/nantong/">南通</a>&nbsp;<a href="http://jobs.51job.com/changzhou/">常州</a>&nbsp;<a href="http://jobs.51job.com/shanghai/">上海</a>&nbsp;<a href="http://jobs.51job.com/hangzhou/">杭州</a>&nbsp;<a href="http://jobs.51job.com/shaoxing/">绍兴</a>&nbsp;<a href="http://jobs.51job.com/taizhou/">泰州</a>&nbsp;<a href="http://jobs.51job.com/zhenjiang/">镇江</a>&nbsp;<a href="http://jobs.51job.com/yangzhou/">扬州</a>&nbsp;<a href="http://jobs.51job.com/ningbo/">宁波</a>&nbsp;
+				<div class="clear"></div>
+			</div>
+			<div class="e">
+				<p>
+					<strong>主要城市：</strong>
+					<a class=""  href="http://jobs.51job.com/all/">不限</a>
+				</p>
+				<div class="lkst close">
+
+					 					<a class="" href="http://jobs.51job.com/guangdongsheng/">广东省</a>
+										<a class="mk" href="http://jobs.51job.com/guangzhou/">广州</a>
+										<a class="" href="http://jobs.51job.com/huizhou/">惠州</a>
+										<a class="" href="http://jobs.51job.com/shantou/">汕头</a>
+										<a class="" href="http://jobs.51job.com/zhuhai/">珠海</a>
+										<a class="" href="http://jobs.51job.com/foshan/">佛山</a>
+										<a class="" href="http://jobs.51job.com/zhongshan/">中山</a>
+										<a class="" href="http://jobs.51job.com/dongguan/">东莞</a>
+										<a class="" href="http://jobs.51job.com/shaoguan/">韶关</a>
+										<a class="" href="http://jobs.51job.com/jiangmen/">江门</a>
+										<a class="" href="http://jobs.51job.com/zhanjiang/">湛江</a>
+										<a class="" href="http://jobs.51job.com/zhaoqing/">肇庆</a>
+										<a class="" href="http://jobs.51job.com/qingyuan/">清远</a>
+										<a class="" href="http://jobs.51job.com/chaozhou/">潮州</a>
+										<a class="" href="http://jobs.51job.com/heyuan/">河源</a>
+										<a class="" href="http://jobs.51job.com/jieyang/">揭阳</a>
+										<a class="" href="http://jobs.51job.com/maoming/">茂名</a>
+										<a class="" href="http://jobs.51job.com/shanwei/">汕尾</a>
+										<a class="" href="http://jobs.51job.com/meizhou/">梅州</a>
+										<a class="" href="http://jobs.51job.com/kaiping/">开平</a>
+										<a class="" href="http://jobs.51job.com/yangjiang/">阳江</a>
+										<a class="" href="http://jobs.51job.com/yunfu/">云浮</a>
+									</div>
+				<div class="clear"></div>
+				<i class="sicon Dm down">更多</i>
+			</div>
+						<div class="e e3 nb">
+				<p>
+					<strong>热门地区：</strong>
+					<a class="mk"  href="http://jobs.51job.com/guangzhou/">不限</a>
+				</p>
+				<div class="lkst">
+											<a class=""  href="http://jobs.51job.com/guangzhou-yxq/">越秀区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-lwq/">荔湾区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-hzq/">海珠区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-thq/">天河区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-byq/">白云区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-hpq/">黄埔区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-pyq/">番禺区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-hdq/">花都区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-nsq/">南沙区</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-zc/">增城</a>
+
+												<a class=""  href="http://jobs.51job.com/guangzhou-ch/">从化</a>
+
+										</div>
+				<div class="clear"></div>
+			</div>
+
+							<div class="e">
+				<p>
+					<strong>热门地标：</strong>
+					<a class=""  href="http://jobs.51job.com/guangzhou/">不限</a>
+				</p>
+				<div class="lkst close">
+					 					<a class="mk" href="http://jobs.51job.com/guangzhou_hd91/">天河体育中心</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd88/">石牌</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd98/">珠江新城</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd89/">市桥</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd74/">大石</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd85/">三元里</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd83/">科学城</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd79/">环市东路</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd96/">中华广场</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd86/">上下九</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd72/">北京路</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd82/">开发区</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd94/">永和经济技术开发区</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd90/">天河软件园</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd92/">五羊新城</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd84/">南沙经济技术开发区</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd81/">金沙洲</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd77/">广州大学城</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd1834/">珠吉公路</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_hd1835/">七夕广场</a>
+									</div>
+				<div class="clear"></div>
+				<i class="sicon Dm down">更多</i>
+			</div>
+									<div class="e">
+				<p>
+					<strong>地铁沿线：</strong>
+					<a class="mk"  href="http://jobs.51job.com/guangzhou/">不限</a>
+				</p>
+				<div class="lkst close">
+					 					<a class="" href="http://jobs.51job.com/guangzhou_dt0302000100/">地铁1号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000200/">地铁2号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000300/">地铁3号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000400/">地铁4号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000500/">地铁5号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000600/">地铁8号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000700/">广佛线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000800/">APM</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302000900/">地铁6号线</a>
+										<a class="" href="http://jobs.51job.com/guangzhou_dt0302001000/">地铁7号线</a>
+									</div>
+				<div class="clear"></div>
+				<i class="sicon Dm down">更多</i>
+			</div>
+									<div class="e">
+				<p>
+					<strong>职位分类：</strong>
+					<a class="mk"  href="http://jobs.51job.com/guangzhou_hd91/">不限</a>
+				</p>
+				<div class="lkst close">
+										<a href="http://jobs.51job.com/guangzhou_hd91/jisuanjiyingjian/" class="" >计算机硬件</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jisuanjiruanjian/" class="" >计算机软件</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/hulianwang/" class="" >互联网/电子商务/网游</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/it-guanli/" class="" >IT-管理</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jishuzhichi/" class="" >IT-品管、技术支持及其它</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/tongxinjishukaifa/" class="" >通信技术开发及应用</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/dianzi/" class="" >电子/电器/半导体/仪器仪表</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/xiaoshouguanli/" class="" >销售管理</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/xiaoshourenyuan/" class="" >销售人员</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/xiaoshouxingzheng/" class="" >销售行政及商务</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/kefuzhichi/" class="" >客服及支持</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/caiwushenji/" class="" >财务/审计/税务</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jinrongzhengquan/" class="" >金融/证券/期货/投资</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yinhang/" class="" >银行</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/baoxian/" class="" >保险</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/shengchanyingyun/" class="" >生产/营运</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/zhilianganquan/" class="" >质量安全</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/gongchengjixie/" class="" >工程/机械/能源</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/qichezhizao/" class="" >汽车制造</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/qichexiaoshou/" class="" >汽车销售与服务</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jigongpugong/" class="" >技工普工</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/fuzhuangfangzhi/" class="" >服装/纺织/皮革</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/caigou/" class="" >采购</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/maoyi/" class="" >贸易</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/wuliucangchu/" class="" >物流/仓储</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/shengwuzhiyao/" class="" >生物/制药/医疗器械</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/huagong/" class="" >化工</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yiliao/" class="" >医院/医疗/护理</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/guanggao/" class="" >广告</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/gongguanmeijie/" class="" >公关/媒介</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/shichangyingxiao/" class="" >市场/营销</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yingshimeiti/" class="" >影视/媒体</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/bianjichuban/" class="" >编辑出版</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yishusheji/" class="" >艺术/设计</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jianzhugongcheng/" class="" >建筑工程与装潢</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/fangdichankaifa/" class="" >房地产开发</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/fangdichanxiaoshou/" class="" >房地产销售与中介</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/wuyeguanli/" class="" >物业管理</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/renliziyuan/" class="" >人力资源</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/gaojiguanli/" class="" >高级管理</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/xingzhenghouqin/" class="" >行政/后勤</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/zixunguwen/" class="" >咨询/顾问</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/lvshifawu/" class="" >律师/法务/合规</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jiaoshi/" class="" >教师</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/peixun/" class="" >培训</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/keyan/" class="" >科研</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/canyinfuwu/" class="" >餐饮服务</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jiudianlvyou/" class="" >酒店旅游</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/meirongbaojian/" class="" >美容保健</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/baihuolingshou/" class="" >百货零售</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jiaotongyunshu/" class="" >交通运输服务</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jiazhengbaojie/" class="" >家政保洁</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/gongwuyuan/" class="" >公务员</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/fanyi/" class="" >翻译</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/zaixiaoxuesheng/" class="" >在校学生</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/peixunshixi/" class="" >储备干部/培训生/实习生</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jianzhi/" class="" >兼职</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/huanbao/" class="" >环保</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/nonglinmuyu/" class="" >农/林/牧/渔</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/wangdiantaobao/" class="" >网店淘宝</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/jixiejichuang/" class="" >机械机床</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yinshuabaozhuang/" class="" >印刷包装</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/yundongjianshen/" class="" >运动健身</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/xiuxianyule/" class="" >休闲娱乐</a>
+										<a href="http://jobs.51job.com/guangzhou_hd91/others/" class="" >其他</a>
+									</div>
+				<div class="clear"></div>
+				<i class="down sicon Dm">更多</i>
+			</div>
+						<div class="bt b2" style="z-index:2">
+				<strong>更多：</strong>
+				<div class="flst">
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>行业分类</span>
+							<ul class="bx">
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy01/">计算机软件</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy37/">计算机硬件</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy38/">计算机服务(系统、数据服务、维修)</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy31/">通信/电信/网络设备</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy39/">通信/电信运营、增值服务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy32/">互联网/电子商务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy40/">网络游戏</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy02/">电子技术/半导体/集成电路</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy35/">仪器仪表/工业自动化</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy41/">会计/审计</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy03/">金融/投资/证券</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy42/">银行</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy43/">保险</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy62/">信托/担保/拍卖/典当</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy04/">贸易/进出口</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy22/">批发/零售</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy05/">快速消费品(食品、饮料、化妆品)</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy06/">服装/纺织/皮革</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy44/">家具/家电/玩具/礼品</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy60/">奢侈品/收藏品/工艺品/珠宝</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy45/">办公用品及设备</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy14/">机械/设备/重工</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy33/">汽车及零配件</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy08/">制药/生物工程</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy46/">医疗/护理/卫生</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy47/">医疗设备/器械</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy12/">广告</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy48/">公关/市场推广/会展</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy49/">影视/媒体/艺术/文化传播</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy13/">文字媒体/出版</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy15/">印刷/包装/造纸</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy26/">房地产</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy09/">建筑/建材/工程</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy50/">家居/室内设计/装潢</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy51/">物业管理/商业中心</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy34/">中介服务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy63/">租赁服务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy07/">专业服务(咨询、人力资源、财会)</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy59/">外包服务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy52/">检测，认证</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy18/">法律</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy23/">教育/培训/院校</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy24/">学术/科研</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy11/">餐饮业</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy53/">酒店/旅游</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy17/">娱乐/休闲/体育</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy54/">美容/保健</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy27/">生活服务</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy21/">交通/运输/物流</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy55/">航天/航空</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy19/">石油/化工/矿产/地质</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy16/">采掘业/冶炼</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy36/">电气/电力/水利</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy61/">新能源</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy56/">原材料和加工</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy28/">政府/公共事业</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy57/">非营利组织</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy20/">环保</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy29/">农/林/牧/渔</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/hy58/">多元化业务集团公司</a></li>
+															</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>工作经验</span>
+							<ul>
+																							<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/we01/">无经验</a></li>
+																							<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/we02/">1-3年</a></li>
+																							<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/we03/">3-5年</a></li>
+																							<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/we04/">5-10年</a></li>
+																							<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/we05/">10年以上</a></li>
+															</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>薪酬福利</span>
+							<ul class="bx">
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc01/">五险一金</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc02/">带薪年假</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc03/">节日福利</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc04/">周末双休</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc05/">绩效奖金</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc06/">员工旅游</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc07/">立即上岗</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc08/">专业培训</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc09/">全勤奖</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc10/">年终双薪</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc11/">定期体检</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc12/">交通补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc13/">通讯补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc14/">出差补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc15/">包住</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc16/">人才推荐奖</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc17/">高温补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc18/">包吃包住</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc19/">弹性工作</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc20/">补充医疗保险</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc21/">年终分红</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc22/">免费班车</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc23/">出国机会</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc24/">住房补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc25/">包吃</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc26/">股票期权</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc27/">采暖补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc28/">做一休一</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc29/">加班补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc30/">餐饮补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc31/">补充公积金</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc32/">补充养老保险</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc33/">年终奖金</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc34/">季度奖金</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc35/">团队聚餐</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc36/">每年多次调薪</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc37/">落户办理</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc38/">免息房贷</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc39/">全员持股</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc40/">子女教育津贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc41/">子女保险</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc42/">家人免费体检</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc43/">家属免费医疗</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc44/">外派津贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc45/">电脑补助</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc46/">油费补贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc47/">职位津贴</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc48/">配车</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc49/">不加班</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc50/">科研奖励</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc51/">在职研究生培养</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc52/">健身俱乐部</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc53/">探亲假</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc54/">母婴室</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc55/">做五休二</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc56/">做六休一</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc57/">无试用期</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc58/">工作服</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/xc59/">夫妻房</a></li>
+															</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>公司规模</span>
+							<ul>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs01/" rel="external nofollow">少于50人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs02/" rel="external nofollow">50-150人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs03/" rel="external nofollow">150-500人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs04/" rel="external nofollow">500-1000人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs05/" rel="external nofollow">1000-5000人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs06/" rel="external nofollow">5000-10000人</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cs07/" rel="external nofollow">10000人以上</a></li>
+															</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>公司性质</span>
+							<ul>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn01/">外资（欧美）</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn02/">外资（非欧美）</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn03/">合资</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn04/">国企</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn05/">民营公司</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn06/">外企代表处</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn07/">政府机关</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn08/">事业单位</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn09/">非营利组织</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn10/">上市公司</a></li>
+																<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/cn11/">创业公司</a></li>
+															</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>月薪范围</span>
+							<ul>
+																								<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx01/">2千以下</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx02/">2-3千</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx03/">3-4.5千</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx04/">4.5-6千</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx05/">6-8千</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx06/">0.8-1万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx07/">1-1.5万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx08/">1.5-2万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx09/">2-3万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx10/">3-4万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx11/">4-5万</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/yx12/">5万以上</a></li>
+																</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>工作类型</span>
+							<ul>
+																		<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/wt01/">全职</a></li>
+																				<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/wt02/">兼职/实习</a></li>
+																				<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/wt03/">实习全职</a></li>
+																				<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/wt04/">实习兼职</a></li>
+																</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>发布时间</span>
+							<ul>
+																								<li><a class="mk" href="http://jobs.51job.com/guangzhou_hd91/rt0/">24小时内</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/rt1/">近三天</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/rt2/">近一周</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/rt3/">近一月</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/rt4/">其它</a></li>
+																</ul>
+						</div>
+					</div>
+					<div class="l">
+						<div>
+							<em class="sicon Dm"></em><font></font>
+							<span>学历要求</span>
+							<ul>
+																								<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed01/">初中及以下</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed02/">高中/中技/中专</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed03/">大专</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed04/">本科</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed05/">硕士</a></li>
+																									<li><a class="" href="http://jobs.51job.com/guangzhou_hd91/ed06/">博士</a></li>
+																</ul>
+						</div>
+					</div>
+					<p class="clear"></p>
+				</div>
+			</div>
+			<div class="bt" style="z-index:1">
+				<strong class="or">已选条件：</strong>
+				<div class="clist">
+												<span>广州<a href="http://jobs.51job.com/all/" ><em class="sicon Dm"></em></a></span>
+														<span>天河体育中心<a href="http://jobs.51job.com/guangzhou/" ><em class="sicon Dm"></em></a></span>
+												<div class="clear"></div>
+					<a class="qx sicon Dm" href="http://jobs.51job.com/all/">清除条件</a>
+				</div>
+			</div>		</div>
+		<div class="mcon">
+			<div class="left">
+									<div class="dw_tlc">
+						<div class="chall">
+							<span>
+								<em class="check" onclick="javascript:SelectAllCheckbox(this, 'delivery_em')" id="top_select_all_jobs_checkbox" name="select_all"></em>
+							</span>
+							全选
+						</div>
+						<div class="op">
+							<span class="but_sq uck" onclick="delivery('delivery_jobid', '2','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');">
+							<i class="dicon Dm"></i>申请职位
+							</span>
+						</div>
+					</div>
+					<div class="detlist gbox">
+						<!-- first -->
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99869087" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="平安综合金融主管" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99869087.html?s=02">
+											平安综合金融主管										</a>
+									</span>
+									<a title="中国平安人寿保险股份有限公司广州电话销售中心" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4676024.html">
+										中国平安人寿保险股份有限公司广州电话销售中心									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">6-8千/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：大专<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：10000人以上								</p>
+								<p class="text" title="岗位职责:1、银行业务: 平安、深发展银行所提供的相关产品及服务，如贷款，证券，借记卡、信用卡等2、人寿保险(健康．意外．养老．教育基金.投资理财.储蓄分红.团体意外险等)3、财产保险（车险,设备险,家庭财产保险、货物运输保险、雇主责任保险、公众责任保险等）4、证券业务及产品: 股票、债券、基金5、信托业务及产品: 财产信托计划、资金信托计划企业年金6、房地产业务：平安好房（买、卖、租）7、贷款业务: 住宅贷款 车主贷款 寿险贷款 薪水贷款等8、车子业务： 平安好车任职要求：1、25—45周岁，男女不限，品貌端正，1年及以上工作经验，有销售从业经验者优先；2、无不良记录者，无违法犯罪记录。3、学历：大专及以上，专科以上优先；4、具有良好的心理素质及良好的沟通能力；5、具有人力资源、金融、保险、销售、法律等行业工作经验者优先；渴望成功但又没有任何背景和经济基础者优先；7、对成功有强烈的企图心；敢于挑战收入极限；福利待遇：1、训练津贴（有责任底薪最高5400元/月）+ 业务提成、达成津贴、钻石奖、季度奖、综合金融服务金、续年度服务津贴、继续率奖金、增才奖金、育成津贴，养老金等；（上不封顶）主管级以上：新主管帮扶津贴、主管养老公积金、直接育成津贴、间接育成津贴、小组年终奖、钻石营业组奖等。2、享有意外保险、定期寿险和住院医疗保险等综合保障；3、绩优人员享有特别养老补贴；4、任职5周年以上享有长期养老津贴；5、享有长期团队管理,营销知识，技能等专业培训；6、参加公司的管理团队,晋升主任/高级主任/资深主任/经理/总监....7、优先机会调入公司内勤:平安保险/平安银行/平安证券等内勤岗位工作；8、可成为平安的专职培训讲师；9、可成为平安未来专业银行/保险理财规划师；10、保险事业是一分充满爱心助人的事业，发展空间广阔，凭借自己的勤奋和智慧可以抒写自己美好的人生！11、国内外免费旅游方案。工作时间:双休制，按国家法定节日执行，每天8：30-10:30早会，会后时间自由支配。薪资待遇：工资实行多劳多得，收入上不封顶！工作地址： 广州市天河区体育东路122号 ">
+									岗位职责:1、银行业务: 平安、深发展银行所提供的相关产品及服务，如贷款，证券，借记卡、信用卡等2、人寿保险(健康．意外．养老．教育基金.投资理财.储蓄分红.团体意外险等)3、财产保险（车险,设备险,家庭财产保险、货物运输保险、雇主责任保险、公众责任保险等）4、证券业务及产品: 股票、债券、基金5、信托业务及产品: 财产信托计划、资金信托计划企业年金6、房地产业务：平安好房（买、卖、租）7、贷款业务: 住宅贷款 车主贷款 寿险贷款 薪水贷款等8、车子业务： 平安好车任职要求：1、25—45周岁，男女不限，品貌端正，1年及以上工作经验，有销售从业经验者优先；2、无不良记录者，无违法犯罪记录。3、学历：大专及以上，专科以上优先；4、具有良好的心理素质及良好的沟通能力；5、具有人力资源、金融、保险、销售、法律等行业工作经验者优先；渴望成功但又没有任何背景和经济基础者优先；7、对成功有强烈的企图心；敢于挑战收入极限；福利待遇：1、训练津贴（有责任底薪最高5400元/月）+ 业务提成、达成津贴、钻石奖、季度奖、综合金融服务金、续年度服务津贴、继续率奖金、增才奖金、育成津贴，养老金等；（上不封顶）主管级以上：新主管帮扶津贴、主管养老公积金、直接育成津贴、间接育成津贴、小组年终奖、钻石营业组奖等。2、享有意外保险、定期寿险和住院医疗保险等综合保障；3、绩优人员享有特别养老补贴；4、任职5周年以上享有长期养老津贴；5、享有长期团队管理,营销知识，技能等专业培训；6、参加公司的管理团队,晋升主任/高级主任/资深主任/经理/总监....7、优先机会调入公司内勤:平安保险/平安银行/平安证券等内勤岗位工作；8、可成为平安的专职培训讲师；9、可成为平安未来专业银行/保险理财规划师；10、保险事业是一分充满爱心助人的事业，发展空间广阔，凭借自己的勤奋和智慧可以抒写自己美好的人生！11、国内外免费旅游方案。工作时间:双休制，按国家法定节日执行，每天8：30-10:30早会，会后时间自由支配。薪资待遇：工资实行多劳多得，收入上不封顶！工作地址： 广州市天河区体育东路122号 								<p class="opat">
+									<input value="99869087" name="hidJobID99869087" id="hidJobID99869087" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99869087','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99869087');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="68650891" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="业务员" target="_blank" href="http://jobs.51job.com/guangzhou-thq/68650891.html?s=02">
+											业务员										</a>
+									</span>
+									<a title="广州齐艺文化传播有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co3420856.html">
+										广州齐艺文化传播有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">10-15万/年</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：<span>|</span>工作经验：<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人								</p>
+								<p class="text" title="“齐艺文化”是一家专注于外籍艺人演出经纪的经纪公司（本公司拥有大量外籍演出人员，如外籍歌手、外籍舞蹈、外籍模特、外籍乐队、菲律宾军乐队、苏格兰风笛、欧美歌舞团等），承接全国各地演出场所、商业活动、广告拍摄等各类型活动，提供各类型外籍艺人资源，满足中国对外籍艺人演出市场日新月异的需求。我们希望这样的您随时与我们联系。对演出行业感兴趣、善于发现问题解决问题、敢于拼博，有较强的心理应变抗压能力，有良好的客户服务意识，且勇于挑战高薪。岗位要求：1、有网络销售、微信销售、淘客客服等销售经验，或对销售非常感兴趣；2、业务拓展能力好，抗压能力强，业务性格突出；3、时间观念强；4、遵守职业道德及公司原则，保守商业机密；5、无不良记录。岗位职责：1、根据公司提供的客户资源，开发及维护客户；2、通过电话、亲访、网络交际平台（微信，QQ，微博，演出平台等互联网工具）方式进行客户资源收集及维护；3、针对客户需求，提供公司产品的指导、售前和售后解答跟进等工作任务，完成销售指标；4、负责将公司接演的外籍艺人向外进行宣传、推广、销售，通过多角度、全方位的市场开发，寻找意向客户；5、建立顺畅的客户沟通渠道，积极跟进客户的业务成交，创建长期、良好、稳固的客户关系。">
+									“齐艺文化”是一家专注于外籍艺人演出经纪的经纪公司（本公司拥有大量外籍演出人员，如外籍歌手、外籍舞蹈、外籍模特、外籍乐队、菲律宾军乐队、苏格兰风笛、欧美歌舞团等），承接全国各地演出场所、商业活动、广告拍摄等各类型活动，提供各类型外籍艺人资源，满足中国对外籍艺人演出市场日新月异的需求。我们希望这样的您随时与我们联系。对演出行业感兴趣、善于发现问题解决问题、敢于拼博，有较强的心理应变抗压能力，有良好的客户服务意识，且勇于挑战高薪。岗位要求：1、有网络销售、微信销售、淘客客服等销售经验，或对销售非常感兴趣；2、业务拓展能力好，抗压能力强，业务性格突出；3、时间观念强；4、遵守职业道德及公司原则，保守商业机密；5、无不良记录。岗位职责：1、根据公司提供的客户资源，开发及维护客户；2、通过电话、亲访、网络交际平台（微信，QQ，微博，演出平台等互联网工具）方式进行客户资源收集及维护；3、针对客户需求，提供公司产品的指导、售前和售后解答跟进等工作任务，完成销售指标；4、负责将公司接演的外籍艺人向外进行宣传、推广、销售，通过多角度、全方位的市场开发，寻找意向客户；5、建立顺畅的客户沟通渠道，积极跟进客户的业务成交，创建长期、良好、稳固的客户关系。								<p class="opat">
+									<input value="68650891" name="hidJobID68650891" id="hidJobID68650891" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID68650891','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('68650891');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99878847" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="股票期货操盘手/交易员（底薪6800起+分红+双休+五险）" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99878847.html?s=02">
+											股票期货操盘手/交易员（底薪6800起+分红+双休+五险）										</a>
+									</span>
+									<a title="广州市合众实业投资有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4914718.html">
+										广州市合众实业投资有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">1-1.5万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：高中<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦">
+									【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦								<p class="opat">
+									<input value="99878847" name="hidJobID99878847" id="hidJobID99878847" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99878847','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99878847');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="93215284" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="出纳" target="_blank" href="http://jobs.51job.com/guangzhou-thq/93215284.html?s=02">
+											出纳										</a>
+									</span>
+									<a title="广州市鼎微品牌管理有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4451534.html">
+										广州市鼎微品牌管理有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">3.5-5千/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：大专<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人								</p>
+								<p class="text" title="1、及时登记现金、银行日记账2、根据会计审核后的单据收付现金、银行存款3、定期盘点库存现金，并与现金日记账核对，按现金管理规定管理现金，并确保准确性4、保管好各种空白支票、票据及印鉴5、负责将已登记的银行进账单或支付凭证交给会计做账务处理6、月末与会计核对现金及银行存款余额，同时与银行对账单核对银行存款，不符的制作余额调节表7、根据公司人员借支情况，督促其及时销账8、核实外部付款，收款相关信息任职要求：1、会计、财务等相关专业大专以上学历，有会计从业资格证书；2、了解国家财经政策和会计、税务法规，熟悉银行结算业务；3、熟悉会计报表的处理，熟练使用财务软件；4、善于处理流程性事务、良好的学习能力、独立工作能力和财务分析能力；5、工作细致，责任感强，良好的沟通能力、团队精神。6、单双休7、需要本地人或者有本地人担保">
+									1、及时登记现金、银行日记账2、根据会计审核后的单据收付现金、银行存款3、定期盘点库存现金，并与现金日记账核对，按现金管理规定管理现金，并确保准确性4、保管好各种空白支票、票据及印鉴5、负责将已登记的银行进账单或支付凭证交给会计做账务处理6、月末与会计核对现金及银行存款余额，同时与银行对账单核对银行存款，不符的制作余额调节表7、根据公司人员借支情况，督促其及时销账8、核实外部付款，收款相关信息任职要求：1、会计、财务等相关专业大专以上学历，有会计从业资格证书；2、了解国家财经政策和会计、税务法规，熟悉银行结算业务；3、熟悉会计报表的处理，熟练使用财务软件；4、善于处理流程性事务、良好的学习能力、独立工作能力和财务分析能力；5、工作细致，责任感强，良好的沟通能力、团队精神。6、单双休7、需要本地人或者有本地人担保								<p class="opat">
+									<input value="93215284" name="hidJobID93215284" id="hidJobID93215284" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID93215284','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('93215284');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99787481" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="金融外汇分析师（底薪6800起+佣金+分红+五险）" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99787481.html?s=02">
+											金融外汇分析师（底薪6800起+佣金+分红+五险）										</a>
+									</span>
+									<a title="广州市合众实业投资有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4891191.html">
+										广州市合众实业投资有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">1-1.5万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：高中<span>|</span>工作经验：<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手  能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。 丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87575956 联系人：汪经理 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦">
+									【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手  能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。 丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87575956 联系人：汪经理 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦								<p class="opat">
+									<input value="99787481" name="hidJobID99787481" id="hidJobID99787481" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99787481','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99787481');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99878633" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="茶具专卖店店长" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99878633.html?s=02">
+											茶具专卖店店长										</a>
+									</span>
+									<a title="恒福茶文化股份有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co3553429.html">
+										恒福茶文化股份有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">0.5-1万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：<span>|</span>工作经验：<span>|</span>公司性质：上市公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="岗位职责：1、茶具专卖店店长，负责店面的日常营运管理；2、负责店面陈列及培训工作；3、客情维护及管理；任职要求： 1、20-36岁，高中以上学历；2、形象阳光、有亲和力； 3、有两年以上中高端商场商专卖店店面管理经验，能独立进行门店客户开拓和运营管理，擅长客户公关和关系营销，有会所、茶馆、珠宝、手表、化妆品等相关管理经验优先。">
+									岗位职责：1、茶具专卖店店长，负责店面的日常营运管理；2、负责店面陈列及培训工作；3、客情维护及管理；任职要求： 1、20-36岁，高中以上学历；2、形象阳光、有亲和力； 3、有两年以上中高端商场商专卖店店面管理经验，能独立进行门店客户开拓和运营管理，擅长客户公关和关系营销，有会所、茶馆、珠宝、手表、化妆品等相关管理经验优先。								<p class="opat">
+									<input value="99878633" name="hidJobID99878633" id="hidJobID99878633" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99878633','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99878633');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99748298" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="GRE/GMAT***老师" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99748298.html?s=02">
+											GRE/GMAT***老师										</a>
+									</span>
+									<a title="北京美世联合国际教育咨询有限公司广州分公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4851288.html">
+										北京美世联合国际教育咨询有限公司广州分公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">4.5-6千/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：<span>|</span>工作经验：<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="岗位职责：1.按公司规定教授SAT/新托福/雅思相关课程；2.及时发现和反馈学生的学习状况； 3.对学生实施有效的评估并阶段性对每个学生进行和学习指导； 4.对SAT/托福/雅思考试流程和相关信息有深入了解； 5.管理团队及时沟通并执行上级的指示； 6.教学相关工作配合。 任职要求： 1. 本科以上学历，英语、教育或相关专业毕业； 2. 英语专业八级以上水平，具备扎实的专业知识和出国留学类教材语音教学，语法教学，听、说、读、写教学经验。 3. 参加过雅思、托福等出国考试者优先，且托福总分不低于100或所授单项25分以上，雅思总分7.5或者所授单项7.5以上；4. 有出国留学经验者尤佳；5. 性格开朗大方，语言表达能力强，温和有耐心； 6. 逻辑思维能力强，责任感强。 来这里，你将得到： 1. 试用期带薪培训，转正期限灵活； 2. 试用期即享受正规社会保险，转正之后享受住房公积金； 3. 转正后享有公司提供的餐费补贴； 4. 按国家规定享有带薪年假； 5. 国家法定节假日享受温馨节日礼物；6. 工作团队年轻，工作氛围轻松；7. 完善的晋升路线； 8. 不定期举办员工活动，让大家感受到家的温暖；办公地点：广州市天河区天河区体育西路189号8D">
+									岗位职责：1.按公司规定教授SAT/新托福/雅思相关课程；2.及时发现和反馈学生的学习状况； 3.对学生实施有效的评估并阶段性对每个学生进行和学习指导； 4.对SAT/托福/雅思考试流程和相关信息有深入了解； 5.管理团队及时沟通并执行上级的指示； 6.教学相关工作配合。 任职要求： 1. 本科以上学历，英语、教育或相关专业毕业； 2. 英语专业八级以上水平，具备扎实的专业知识和出国留学类教材语音教学，语法教学，听、说、读、写教学经验。 3. 参加过雅思、托福等出国考试者优先，且托福总分不低于100或所授单项25分以上，雅思总分7.5或者所授单项7.5以上；4. 有出国留学经验者尤佳；5. 性格开朗大方，语言表达能力强，温和有耐心； 6. 逻辑思维能力强，责任感强。 来这里，你将得到： 1. 试用期带薪培训，转正期限灵活； 2. 试用期即享受正规社会保险，转正之后享受住房公积金； 3. 转正后享有公司提供的餐费补贴； 4. 按国家规定享有带薪年假； 5. 国家法定节假日享受温馨节日礼物；6. 工作团队年轻，工作氛围轻松；7. 完善的晋升路线； 8. 不定期举办员工活动，让大家感受到家的温暖；办公地点：广州市天河区天河区体育西路189号8D								<p class="opat">
+									<input value="99748298" name="hidJobID99748298" id="hidJobID99748298" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99748298','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99748298');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99876232" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="期货/外汇市场储备人才" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99876232.html?s=02">
+											期货/外汇市场储备人才										</a>
+									</span>
+									<a title="广州优速基金管理有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4919356.html">
+										广州优速基金管理有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">0.8-1万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：大专<span>|</span>工作经验：2年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人								</p>
+								<p class="text" title="【职位职责】1.及时掌握创新业务服务模式，推广公司期货、外汇等金融类业务；2.调研需求，结合实际，向客户、渠道传递公司产品与服务信息，提供个性化服务；3.通过服务带动业务开发，并与公司客户、渠道维持长期稳固的战略合作关系；4.开发和维护营销渠道，探索创新业务模式，积极推广创新业务； 【任职要求】1.大专及以上学历，金融、经济相关专业；2.有一定的金融专业知识，热衷于金融行业发展；3.执行力强、有强烈的时间观念、目标感、责任感；4.有出色的沟通能力，能承受较大的工作压力； 【职业发展】1.本岗位是复合型岗位，对金融专业性和营销能力都有要求，能在这两方面得到锻炼，未来人才可以在管理型、技术型方向上发展；2.管理型是指通过公司储备人才培养计划，做出业绩，提升个人管理、组织能力，成为管理型人才；3.技术型是指通过公司提供业内一流的研究、开发服务培训，以个人的专业技术能力晋升等级，成为产投研的专业型人才；">
+									【职位职责】1.及时掌握创新业务服务模式，推广公司期货、外汇等金融类业务；2.调研需求，结合实际，向客户、渠道传递公司产品与服务信息，提供个性化服务；3.通过服务带动业务开发，并与公司客户、渠道维持长期稳固的战略合作关系；4.开发和维护营销渠道，探索创新业务模式，积极推广创新业务； 【任职要求】1.大专及以上学历，金融、经济相关专业；2.有一定的金融专业知识，热衷于金融行业发展；3.执行力强、有强烈的时间观念、目标感、责任感；4.有出色的沟通能力，能承受较大的工作压力； 【职业发展】1.本岗位是复合型岗位，对金融专业性和营销能力都有要求，能在这两方面得到锻炼，未来人才可以在管理型、技术型方向上发展；2.管理型是指通过公司储备人才培养计划，做出业绩，提升个人管理、组织能力，成为管理型人才；3.技术型是指通过公司提供业内一流的研究、开发服务培训，以个人的专业技术能力晋升等级，成为产投研的专业型人才；								<p class="opat">
+									<input value="99876232" name="hidJobID99876232" id="hidJobID99876232" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99876232','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99876232');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99852524" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="股票期货操盘手/交易员（底薪6800起+分红+双休+五险）" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99852524.html?s=02">
+											股票期货操盘手/交易员（底薪6800起+分红+双休+五险）										</a>
+									</span>
+									<a title="广州市合众实业投资有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co4914735.html">
+										广州市合众实业投资有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">1-1.5万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：高中<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。 丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦">
+									【职业特点】1.收入可观，优秀的工作者年薪均过百万。2.工作自由，没有时间地点的限制，有互联网即可完成交易。3.挑战性强，给不甘平庸，渴望挑战的人士一个充分施展才华的空间。4.对于基础薄弱或者无经验者我司提供免费专业的入职前培训。5.没有无聊的会议，没有复杂的人际关系，自己掌握着发展的命运，工作自由度大，非常富有挑战性，您将有更多时间享受自己喜欢的生活方式。【薪资待遇】初级操盘手-无责底薪6800+30%分红（美金）+150元/1手（人民币）+福利+社保中级操盘手-无责底薪10000+40%分红（美金）+150元/1手（人民币）+福利+社保高级操盘手-无责底薪20000+50%分红（美金）+150元/1手（人民币）+福利+社保资深操盘手 薪资面谈 能正式入职的新员工（初级操盘手）平均月薪20000-50000。【福利待遇】（1）周末双休，法定节假日带薪休假、带薪年假；无责底薪，社保福利，保你生活无忧；空调、微波炉、冰箱一应俱全！（2）员工生日礼物（定制蛋糕和晚上聚餐）；端午、中秋、过年等员工福利。（3）丰富的企业文化活动，篮球赛、羽毛球、台球等；年度国内外旅游活动（国内1次，国外1次，由各分公司自行安排）。 丰富的奖励机制（1）每月设置多项排名奖、团队激励奖、破纪录奖励、新人奖等；（2）季度设置多项优秀员工旅游奖励（国外/国内）。（3）年度设置中级大奖（iPhone，汽车，巨额红包）。（4）全员参与年终分红，各分部根据整个年度的收益情况分红。特殊福利：年度优秀员工将享有免费携家属出境游机会。【职位要求】1、男女不限，年龄18岁以上。2、较强的执行力。3、对金融投资领域有浓厚的兴趣，立志在行业长期发展，岗前有系统全面的培训，入职后针对岗位也有强化培训。4、对技术分析，基本分析有一定了解，对现有金融投资品种有广泛了解，对证券和期货投资也有一定程度的了解。5、有经济、金融相关知识背景，有良好的发展前景，经济金融专业大学专科及以上学历。6、对工作充满热情，善于分析，能够保持冷静的交易思路和制定合理的交易策略，有集体荣誉感。7、有数据分析、统计的细心和耐心，思维敏锐，对数字敏感。【晋升空间】（团队管理方向、投资分析方向）技术渠道：初级操盘手-&gt;中级操盘手-&gt;高级操盘手-&gt;部门总监-&gt;分公司总经理管理渠道：经理助手-&gt;经理-&gt;部门总监-&gt;公司副总-&gt;分公司总经理公司名称:广州市合众实业投资有限公司上班时间：周一到周五 9:30-12:00 13:30-17:30 不加班联系电话：020-87570065联系人：杨总 （可电话预约面试时间）公司地址：广州天河区体育西路109号高盛大厦21楼C单元乘车公交路线（BRT体育中心站，维多利广场旁）地铁：3号线/1号线 体育西路站E出口往天河大厦方向直走高盛大厦								<p class="opat">
+									<input value="99852524" name="hidJobID99852524" id="hidJobID99852524" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99852524','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99852524');" >收藏</a>
+								</p>
+							</div>
+													<div class="e ">
+								<em class="check" name="delivery_em" onclick="checkboxClick(this)"></em>
+								<input class="checkbox" type="checkbox" name="delivery_jobid" value="99885840" style="display:none" jt='0' />
+								<p class="info">
+									<span class="title">
+										<a title="高级课程顾问" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99885840.html?s=02">
+											高级课程顾问										</a>
+									</span>
+									<a title="广东百聚汇企业管理咨询有限公司" target="_blank" class="name" href="http://jobs.51job.com/guangzhou-thq/co3879963.html">
+										广东百聚汇企业管理咨询有限公司									</a>
+									<span class="location name">广州-天河区</span>
+									<span class="location">0.5-1万/月</span>
+									<span class="time">03-19</span>
+								</p>
+								<p class="order">
+									学历要求：中专<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人								</p>
+								<p class="text" title="1、课程推广员主要职责是根据公司市场课程部门的规划和要求，通过网络线上推广、电话邀约以及线下活动推广，邀约外贸电商客户参加公司公开课培训，并通过公开课培训，开发、跟踪、转化课程客户，实现公司课程销售业绩目标2、掌握相关课程产品知识和推广话术，进行相应课程推广，完成个人课程销售目标3、通过线上互动平台、社交媒体、聊天工具加群、加人，推广公司课程活动，邀约客户参加公开课活动；4、通过各种渠道方式收集客户信息，通过电话邀约客户参加公开课，并进行课程销售转化；5、参与公开课、实操课课务组织和执行，按照公司要求完成相关任务；6、挖掘客户需求，跟踪维护客户，做好客户的二次开发工作；任职要求：1、中专以上学历，有一年以上销售的经验，对营销策划有深刻理解及丰富的实际运作经验；2、有跨境电商顾问、电商培训行业、电商服务、外贸、o2o模式等经验且有过电话邀约、实地拜访、陌拜等经验优先；3、对销售岗位有极大的认可与热情，具备良好的营销推广、渠道建立能力和良好的人际沟通、协调能力、应变能力、逻辑分析和解决问题的能力；具有较强的亲和力及团队合作精神4、身体状况良好，服从领导指派，勇于承担工作，具有奉献精神。5、愿意在跨境电商创业公司与团队一起共同奋斗和成长。从业年限不限，具备互联网行业、培训行业销售经验优先(优秀者可放宽条件)福利待遇：1. 【愉悦的工作氛围】高大上的写字楼，整洁温馨的办公环境，兄弟姐妹般的同事伙伴，学校般的成长氛围，钢铁般的团队意志！“家”一般温馨的企业文化，员工“狼”性足，团队意识强，额外专业培训助力培养优秀人才；.2. 【健全合法保障】享受国家法定假期，年假、产假、等带薪假日及国家规定的其它福利待遇。3. 【丰富的收入组成】高底薪+高提成+绩效奖金+激励奖金+专业培训+晋升机会（平均薪酬4k-8k，上不封顶）4. 【丰厚的保障福利】带薪年假+全员旅游+团队聚餐+下午茶福利+每年有2次晋升加薪申请机会5. 传统节日礼品+公司活动（员工聚餐、旅游活动、爬山郊游、唱K等）我们求贤如渴，期待你的加入">
+									1、课程推广员主要职责是根据公司市场课程部门的规划和要求，通过网络线上推广、电话邀约以及线下活动推广，邀约外贸电商客户参加公司公开课培训，并通过公开课培训，开发、跟踪、转化课程客户，实现公司课程销售业绩目标2、掌握相关课程产品知识和推广话术，进行相应课程推广，完成个人课程销售目标3、通过线上互动平台、社交媒体、聊天工具加群、加人，推广公司课程活动，邀约客户参加公开课活动；4、通过各种渠道方式收集客户信息，通过电话邀约客户参加公开课，并进行课程销售转化；5、参与公开课、实操课课务组织和执行，按照公司要求完成相关任务；6、挖掘客户需求，跟踪维护客户，做好客户的二次开发工作；任职要求：1、中专以上学历，有一年以上销售的经验，对营销策划有深刻理解及丰富的实际运作经验；2、有跨境电商顾问、电商培训行业、电商服务、外贸、o2o模式等经验且有过电话邀约、实地拜访、陌拜等经验优先；3、对销售岗位有极大的认可与热情，具备良好的营销推广、渠道建立能力和良好的人际沟通、协调能力、应变能力、逻辑分析和解决问题的能力；具有较强的亲和力及团队合作精神4、身体状况良好，服从领导指派，勇于承担工作，具有奉献精神。5、愿意在跨境电商创业公司与团队一起共同奋斗和成长。从业年限不限，具备互联网行业、培训行业销售经验优先(优秀者可放宽条件)福利待遇：1. 【愉悦的工作氛围】高大上的写字楼，整洁温馨的办公环境，兄弟姐妹般的同事伙伴，学校般的成长氛围，钢铁般的团队意志！“家”一般温馨的企业文化，员工“狼”性足，团队意识强，额外专业培训助力培养优秀人才；.2. 【健全合法保障】享受国家法定假期，年假、产假、等带薪假日及国家规定的其它福利待遇。3. 【丰富的收入组成】高底薪+高提成+绩效奖金+激励奖金+专业培训+晋升机会（平均薪酬4k-8k，上不封顶）4. 【丰厚的保障福利】带薪年假+全员旅游+团队聚餐+下午茶福利+每年有2次晋升加薪申请机会5. 传统节日礼品+公司活动（员工聚餐、旅游活动、爬山郊游、唱K等）我们求贤如渴，期待你的加入								<p class="opat">
+									<input value="99885840" name="hidJobID99885840" id="hidJobID99885840" type="hidden" jt="0">
+									<a class="sq sicon Dm" href="javascript:void(0);" onclick="delivery('hidJobID99885840','1','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');return false;">立即申请</a><br />
+									<a class="sc sicon Dm" href="javascript:void(0);" onclick="saveCollection('99885840');" >收藏</a>
+								</p>
+							</div>
+											</div>
+					<div class="dw_tlc">
+                        <div class="chall">
+                            <span>
+                                <em class="check" onclick="javascript:SelectAllCheckbox(this, 'delivery_em')" id="bottom_select_all_jobs_checkbox" name="select_all"></em>
+                            </span>
+                            全选
+                        </div>
+                        <div class="op">
+                            <span class="but_sq uck" onclick="delivery('delivery_jobid', '2','http://i.51job.com/','c','jobs.51job.com','02','02','http://img06.51jobcdn.com/');">
+								<i class="dicon Dm"></i>申请职位
+							</span>
+                        </div>
+                    </div>
+					<div class="dw_page">
+						<div class="p_box">
+							<div class="p_wp">
+								<div id="cppageno" class="p_in"><ul>
+<li class="bk"><a href="http://jobs.51job.com/guangzhou_hd91/p1/">上一页</a></li><li class="on">1</li>
+<li><a href="http://jobs.51job.com/guangzhou_hd91/p2/">2</a></li>
+<li><a href="http://jobs.51job.com/guangzhou_hd91/p3/">3</a></li>
+<li><a href="http://jobs.51job.com/guangzhou_hd91/p4/">4</a></li>
+<input type="hidden" id="hidTotalPage" name="hidTotalPage" value="505">
+<li class="bk"><a href="http://jobs.51job.com/guangzhou_hd91/p2/">下一页</a></li>
+</ul><span class="td">共505页，到第</span><input id="jump_page" class="mytxt" type="text" value="1"><span class="td">页</span><span class="og_but" onclick=jumpPage();>确定</span></div>
+							</div>
+						</div>
+					</div>
+
+			</div>
+			<!-- list end -->
+
+			<div class="right">
+                <div class="e gbox">
+                    <p class="btitle"><a href="https://auction.51jingying.com/?5CC4CE=1011" target="_blank" class="c_sblue">精英竞拍汇</a>-中高端人才求职平台</p>
+					<div class="clist">
+						<div class="c c0">
+							<div class="p1">
+								<label>年薪：30-80万</label>
+								<em></em>
+								<a href="https://it.51jingying.com/?5CC4CE=1011" target="_blank">互联网专场</a>
+							</div>
+							<div class="p2">
+								<span>招聘职位：</span>
+								后端开发，前端开发，移动端开发，测试，产品/设计/运营
+							</div>
+						</div>
+						<div class="c c1">
+							<div class="p1">
+								<label>年薪：40-150万</label>
+								<em></em>
+								<a href="https://finance.51jingying.com/?5CC4CE=1011" target="_blank">金融专场</a>
+							</div>
+							<div class="p2">
+								<span>招聘职位：</span>
+								财务审计，合规与风险控制，后台运营，投行，销售
+							</div>
+						</div>
+						<div class="c c2">
+							<div class="p1">
+								<label>年薪：40-60万</label>
+								<em></em>
+								<a href="https://fang.51jingying.com/?5CC4CE=1011" target="_blank">房地产专场</a>
+							</div>
+							<div class="p2">
+								<span>招聘职位：</span>
+                                房地产开发，建筑工程，规划设计，商业，市场营销
+							</div>
+						</div>
+						<div class="c c3">
+							<div class="p1">
+								<label>年薪：20-40万</label>
+								<em></em>
+								<a href="https://auto.51jingying.com/?5CC4CE=1011" target="_blank">汽车专场</a>
+							</div>
+							<div class="p2">
+								<span>招聘职位：</span>
+								汽车新能源，软件与汽车电子，生产制造，质量管理，供应链管理
+							</div>
+						</div>
+					</div>
+					<div class="hmore">
+						<a href="https://auction.51jingying.com/?5CC4CE=1011" target="_blank">&gt;&gt;&nbsp;更多</a>
+					</div>
+				</div>
+<div class="e gbox">
+					<h2>
+                        <span class="bname">相似职位推荐</span>
+                        							<a class="op icon_b i_reflash" href="javascript:;"  id="changeRecommend" >换一换</a>
+						                    </h2>
+                    <style>
+                        .rjlist .e{height:48px;line-height:24px;padding:8px 15px}
+                        .rjlist a,.rjlist span{height:24px;font-size:12px}
+                        .rjlist .name,.rjlist strong{height:24px;font-size:14px}
+						.rjlist a{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+                    </style>
+					<div class="rjlist" id="job_recommend">
+                        <div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99869780.html?t=2&s=01" title="平安综合金融主管">平安综合金融主管</a><strong>6-8千/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4676024.html" title="中国平安人寿保险股份有限公司广州电话销售中心">中国平安人寿保险股份有限公司广州电话销售中心</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99696471.html?t=2&s=01" title="平安储备主管 （5400底薪+综合金融）">平安储备主管 （5400底薪+综合金融）</a><strong>0.8-2万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4912858.html" title="中国平安人寿保险股份有限公司广东分公司">中国平安人寿保险股份有限公司广东分公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/93463607.html?t=2&s=01" title="综合金融储备主管（月均1w+双休+公平晋升）">综合金融储备主管（月均1w+双休+公平晋升）</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4618892.html" title="中国平安人寿保险股份有限公司广东分公司">中国平安人寿保险股份有限公司广东分公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/95736688.html?t=2&s=01" title="中国平安优才计划诚聘保险代理人储备主管 底薪5400">中国平安优才计划诚聘保险代理人储备主管 底薪5400</a><strong>0.7-3.5万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4727423.html" title="中国平安人寿保险股份有限公司广东分公司">中国平安人寿保险股份有限公司广东分公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99478335.html?t=2&s=01" title="世界500强中国平安诚聘销售主管">世界500强中国平安诚聘销售主管</a><strong>0.8-2.2万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4143369.html" title="中国平安人寿保险股份有限公司广州市天河支公司">中国平安人寿保险股份有限公司广州市天河支公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/90724638.html?t=2&s=01" title="优才计划 底薪5400 中国平安诚聘主管 保险代理人">优才计划 底薪5400 中国平安诚聘主管 保险代理人</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4501006.html" title="中国平安人寿保险股份有限公司广州市天河支公司">中国平安人寿保险股份有限公司广州市天河支公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99365571.html?t=2&s=01" title="续收主管">续收主管</a><strong>6-8千/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4912571.html" title="中国太平洋人寿保险广东分公司区域拓展部">中国太平洋人寿保险广东分公司区域拓展部</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/92536952.html?t=2&s=01" title="保险渠道主管（西塔职场）">保险渠道主管（西塔职场）</a><strong>0.6-2万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4577701.html" title="北京恒昌汇财投资管理有限公司">北京恒昌汇财投资管理有限公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99760661.html?t=2&s=01" title="高级金融产品经理 正式编制 五险一金 储备主管">高级金融产品经理 正式编制 五险一金 储备主管</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4703613.html" title="平安普惠投资咨询有限公司广州花城大道分公司">平安普惠投资咨询有限公司广州花城大道分公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/99648026.html?t=2&s=01" title="贷款团队经理/主管">贷款团队经理/主管</a><strong>0.6-1.2万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4913458.html" title="广州市易达钱信息咨询有限公司">广州市易达钱信息咨询有限公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/95242296.html?t=2&s=01" title="储备主管（团队经理）">储备主管（团队经理）</a><strong>6-8千/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co3079677.html" title="广州钜亿投资咨询有限公司">广州钜亿投资咨询有限公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/94236392.html?t=2&s=01" title="金融经纪人，销售主管">金融经纪人，销售主管</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4657521.html" title="广州市极速贷投资咨询有限公司">广州市极速贷投资咨询有限公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/90107504.html?t=2&s=01" title="区域服务（保险售后专员） 筹备主管">区域服务（保险售后专员） 筹备主管</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4374292.html" title="中国太平洋人寿保险股份有限公司广东分公司珠江新城营销服务部">中国太平洋人寿保险股份有限公司广东分公司珠江新城营销服务部</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/88164117.html?t=2&s=01" title="平安保险业务主管 5400底薪+旅游+培训">平安保险业务主管 5400底薪+旅游+培训</a><strong>0.5-2万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4365646.html" title="中国平安人寿保险股份有限公司广东分公司">中国平安人寿保险股份有限公司广东分公司</a><span>广州-天河区</span>
+</div>
+<div class="e">
+	<a class="name" target="_blank" href="http://jobs.51job.com/guangzhou-thq/97866082.html?t=2&s=01" title="筹备主管">筹备主管</a><strong>0.8-1万/月</strong>
+	<a target="_blank" href="http://jobs.51job.com/guangzhou-thq/co4851835.html" title="中国太平洋人寿保险股份有限公司广州分公司">中国太平洋人寿保险股份有限公司广州分公司</a><span>广州-天河区</span>
+</div>
+<input value="AmEAZFUxAWEDZ1I1AisCMQg3AmEDMVo9V2YFPVE%2BXnwGYQVhUHgBYwBiVnkGagkwXW4CZ1NrBmIDOVZpVX5fMw%3D%3D|%C6%BD%B0%B2%D7%DB%BA%CF%BD%F0%C8%DA%D6%F7%B9%DC" name="frompara" id="frompara" type="hidden" >                    </div>
+				</div>
+				<div class="e gbox">
+					<h2>
+						<a href="http://company.51job.com/guangzhou/" title="广州招聘企业名录" target="_blank"><span class="bname">
+							广州招聘企业名录						</span></a>
+						<a class="op" href="http://company.51job.com/">+ 更多</a>
+						<input name="company_jobarea" type="hidden" id="company_jobarea" value="030200">
+						<input name="company_indtype" type="hidden" id="company_indtype" value="">
+					</h2>
+					<ul class="cylist" id="get_company_list">
+
+					</ul>
+				</div>
+			</div>
+
+			<div class="clear"></div>
+		</div>
+
+		<a href="#top" id="goTop" style="display:none;">回到<br />顶部</a>
+	</div>
+	<div class="footer">
+    <div class="in">
+        <div class="nag">
+            <div class="e e_first">
+                <label>销售热线：</label>400-886-0051&nbsp;&nbsp;027-87810888<br>
+                <label>客服热线：</label>400-620-5100<br>
+                <label>Email：</label><a href="mailto:club@51job.com" rel="external nofollow">club@51job.com</a>（个人）<br>
+                <a href="mailto:hr@51job.com" rel="external nofollow">hr@51job.com</a>（企业）
+            </div>
+            <div class="e">
+                <strong>简介</strong><br>
+                <a href="http://www.51job.com/bo/AboutUs.php" target="_blank">关于我们</a><br>
+                <a href="http://www.51job.com/bo/service.php" target="_blank">服务声明</a><br>
+                <a href="http://media.51job.com/media.php" target="_blank">媒体报道</a><br>
+                <a href="http://ir.51job.com/ir/IRMain.php" target="_blank">Investor Relations</a>
+            </div>
+            <div class="e">
+                <strong>合作</strong><br>
+                <a href="http://www.51job.com/bo/jobs/new_joinus.php" target="_blank">加入我们</a><br>
+                <a href="http://www.51job.com/bo/contact.php" target="_blank">联系我们</a><br>
+                <a href="http://www.51job.com/link.php" target="_blank">友情链接</a>
+            </div>
+            <div class="e">
+                <strong>帮助</strong><br>
+                <a href="http://help.51job.com/home.html" target="_blank">帮助中心</a><br>
+                <a href="http://help.51job.com/qa.html?from=b" target="_blank">常见问题</a><br>
+                <a href="http://help.51job.com/guide.html?from=d" target="_blank">新手引导</a>
+            </div>
+            <div class="e">
+                <strong>导航</strong><br>
+                <a href="http://www.51job.com/sitemap/site_Navigate.php" target="_blank">网站地图</a><br>
+                <a href="http://search.51job.com/jobsearch/search_result.php" target="_blank">职位搜索</a><br>
+                <a href="http://my.51job.com/cv/CResume/CV_CResumeManage.php" target="_blank">简历中心</a><br>
+                <a href="http://company.51job.com/" target="_blank">企业名录</a>
+            </div>
+            <div class="code c_first">
+                <img width="80" height="80" src="http://img01.51jobcdn.com/im/2016/code/web_bottom.png" alt="APP下载">
+                <span><a href="http://app.51job.com/index.html">APP下载</a></span>
+            </div>
+            <div class="code">
+                <img width="80" height="80" src="http://img01.51jobcdn.com/im/2016/code/weixin.png" alt="官方微信">
+                <span>官方微信</span>
+            </div>
+            <div class="clear"></div>
+        </div>
+		<p class="note">
+			<span>未经51job同意，不得转载本网站之所有招聘信息及作品 | 无忧工作网版权所有&copy;1999-2018</span>
+		</p>
+    </div>
+</div>
+</body>
+</html>
+
+			<script language='javascript'>
+			<!--
+				window.cfg = {
+					fileName: '' ,
+					lang : 'c' ,
+					stype : '' ,
+					fullLang : 'Chinese' ,
+					langs : {
+						sqzwml : 'applyjob' ,
+						qzzwqdg : '请在要选择的职位前打勾!' ,
+						myml : 'my' ,
+						ts_qxjzw : '请选择职位' ,
+						queren : '确认' ,
+						guanbi : '关闭' ,
+						nzdnxj : '您最多能选择' ,
+						xiang : '项' ,
+						xzdq : '选择地区' ,
+						xj_xg : '选择/修改' ,
+						zycs : '主要城市' ,
+						sysf : '所有省份' ,
+						tspd : '特殊频道' ,
+						buxian : '不限' ,
+						qingxj : '请选择' ,
+						yixuan : '已选' ,
+						znlb : '职能类别' ,
+						hylb : '行业类别' ,
+						gzdd : '工作地点' ,
+						quanbu : '全部' ,
+						zhineng : '职能' ,
+						hangye : '行业' ,
+						didian : '地点' ,
+						qsrgjz : '请输入关键字' ,
+						srpcgjz : '输入排除关键字'
+					} ,
+					url : {
+						root : 'http://search.51job.com/jobsearch' ,
+						image : 'http://img01.51jobcdn.com/im/2009' ,
+						image_search : 'http://img01.51jobcdn.com/im/2009/search' ,
+						image_search_lang : 'http://img01.51jobcdn.com/im/2009/search/c' ,
+						image_search_c : 'http://img01.51jobcdn.com/im/2009/search/c' ,
+						image_search_e : 'http://img01.51jobcdn.com/im/2009/search/e'
+					} ,
+					domain : {
+                        i : 'http://i.51job.com',
+						my : 'http://my.51job.com' ,
+			            my_ssl : 'https://mylogin.51job.com',
+						search : 'http://search.51job.com'
+					} ,
+					isJobview : '1' ,
+					isAcStatRecJob : '1' ,
+					acStatRecJobType : '0803111457',
+					isSearchDomain : '1' ,
+                    root_userset_ajax: 'http://i.51job.com/userset/ajax'
+				};
+
+                var trackConfig = {
+                    'guid': '15214244253371530059',
+                    'ip': '58.210.233.234',
+                    'accountid': '',
+                    'refpage': '/guangzhou/',
+                    'domain': 'jobs.51job.com',
+                    'pageName': '',
+                    'partner': ''
+                };
+
+                document.write('<scr' + 'ipt type="text/javascript" src="' + ("https:" == document.location.protocol ? "https://js.51job.com" : "http://js.51jobcdn.com") + '/in/js/2016/pointtrack.js?20180129"></sc' + 'ript>');
+
+				function searchInit() {
+					if ( window.Search ) {
+						clearInterval( intVal );
+						window.zzSearch = new Search( {
+							searchForm : document.searchForm ,
+							pageForm : document.pageForm ,
+							excludeForm : document.excludeForm ,
+							pageJumpForm : document.pageJumpForm ,
+							selJobPageForm : document.selJobPageForm ,
+							cfg : cfg
+						} );
+						}
+				}
+                var systemtime = 1521444820553;
+                var d_system_client_time = systemtime - new Date().getTime();
+				var intVal = window.setInterval( searchInit , 50 );
+				var onlySetJobareaLayer = true;
+				//-->
+			</script>
